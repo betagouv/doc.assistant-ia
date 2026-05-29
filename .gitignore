@@ -1,0 +1,41 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Old documentation - legacy files from experimentation phase
+.old-doc/
+.old-doc/**
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Node modules and build artifacts
+node_modules/
+dist/
+build/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Dependency directories
+vendor/
+
+# Cache directories
+.cache/
+*.cache
