@@ -122,7 +122,7 @@ Vos conversations sont conservées **tant que votre compte est actif**. Vous pou
 
 ### Puis-je utiliser l'Assistant avec des données sensibles ?
 
-**Non, l'Assistant IA n'est pas conçu pour traiter des données sensibles.**
+**Oui, l'Assistant est homologué pour le traitement de données sensibles au sens de la loi SREN. Contactez votre hierarchie pour connaître le cadre d'usage spécifique à votre administration.**
 
 **À NE PAS faire :**
 
