@@ -49,6 +49,56 @@ France
 
 **Certification :** SecNumCloud (délivrée par l'ANSSI)
 
+**Infrastructure :**
+* Filiale de Dassault Systèmes
+* Niveau de sécurité le plus élevé pour les services cloud en France
+* Conformité aux exigences de souveraineté française et européenne
+
+***
+
+## Infrastructure et sécurité
+
+### Sécurité des communications
+
+* **Chiffrement** : Toutes les communications sont protégées par TLS 1.3
+* **Authentification** : Accès sécurisé via ProConnect (basé sur FranceConnect)
+
+### Mesures de sécurité techniques
+
+* Chiffrement des données au repos (AES-256)
+* Journalisation des activités
+* Tests de sécurité réguliers
+* Audits externes
+
+### Certifications
+
+* **SecNumCloud** : Certification de sécurité cloud délivrée par l'ANSSI
+* **ISO 27001** : Norme internationale de management de la sécurité de l'information (en cours)
+
+***
+
+## Conformité réglementaire
+
+### Loi SREN (Sécurité et Résilience des Espaces Numériques)
+
+L'Assistant IA respecte les exigences de la [loi SREN](https://www.numerique.gouv.fr/publications/rn-num/loi-sren/) :
+
+✅ **Souveraineté numérique** : Infrastructure et services sous contrôle français/européen
+✅ **Résilience** : Architecture redondante et résistante
+✅ **Protection des données** : Mesures adaptées au niveau de sensibilité
+
+### Instruction Interministérielle n°901
+
+Respect des exigences pour le traitement des informations classifiées :
+
+* **Diffusion Restreinte** : **Non autorisé** dans l'Assistant IA (sauf configuration spécifique)
+* **Secret** : **Interdit**
+* **Très Secret** : **Interdit**
+
+{% hint style="warning" %}
+**Important :** L'Assistant IA n'est **pas homologué** pour le traitement de données classifiées. Ne soumettez **jamais** de données sensibles au sens de l'ANSSI.
+{% endhint %}
+
 ***
 
 ## Service

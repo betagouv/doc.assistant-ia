@@ -98,6 +98,98 @@ Nous collectons uniquement les données **nécessaires** au fonctionnement du se
 
 ---
 
+## Protection et sécurité des données
+
+### Isolement des données
+
+* **Multi-tenancy sécurisé** : Isolation complète entre utilisateurs
+* **Pas de partage** : Vos données ne sont **jamais** accessibles par d'autres utilisateurs
+* **Compartimentage** : Séparation logique entre les données
+
+### Gestion des accès
+
+**Principes :**
+
+* **Moindre privilège** : Chaque utilisateur a uniquement les permissions nécessaires
+* **Authentification forte** : ProConnect (basé sur FranceConnect)
+
+---
+
+## Sous-traitants
+
+Nous faisons appel à des sous-traitants pour l'hébergement et la mesure d'audience. Avant de leur transmettre vos données, nous nous sommes assurés de la mise en œuvre de garanties adéquates et du respect de conditions strictes de confidentialité, d'usage et de protection des données.
+
+| Partenaire | Pays | Rôle | Garanties |
+|-----------|------|------|-----------|
+| **Outscale** | France | Hébergement | SecNumCloud, clauses contractuelles |
+| **IndieHosters** | France | Administration cluster | Clauses de sous-traitance |
+| **PostHog** | Allemagne | Mesure d'audience | Clauses de sous-traitance, anonymisation |
+
+---
+
+## Sécurité des fonctionnalités
+
+### Recherche web
+
+**Fournisseur :** Brave Search API
+
+**Protection :**
+
+* Vos messages ne sont pas envoyés tels quels : le modèle formule une requête internet basée sur votre message
+* Pas de tracking utilisateur : les requêtes envoyées pendant vos conversations ne sont pas traçables par le fournisseur Brave
+* Les requêtes sont conservées par Brave pendant **90 jours** (voir leur [DPA](https://cdn.search.brave.com/search-api/web/v1/client/_app/immutable/assets/brave-search-api-dpa-2025-09-09.DRXCoye6.pdf))
+
+**Alternative :** Vous pouvez désactiver la recherche web dans vos paramètres
+
+### Téléversement de documents
+
+**Sécurité :**
+
+* **Scan antivirus** : Tous les documents sont scannés avant traitement
+* **Limite de taille** : 10 Mo par fichier (configurable)
+* **Types autorisés** : Formats sûrs uniquement (PDF, images, bureautique)
+* **Isolement** : Traitement dans un environnement sécurisé
+
+**Nettoyage :**
+
+* Documents temporaires supprimés après traitement
+* Pas de conservation au-delà de la durée de la conversation (sauf si explicitement sauvegardé)
+
+### Historique des conversations
+
+**Protection :**
+
+* Accès restreint à l'utilisateur propriétaire
+* Possibilité de suppression à tout moment
+
+**Durée :**
+
+* Conservé tant que le compte est actif
+* Suppression possible à tout moment par l'utilisateur
+* (À venir) Suppression automatique au bout de 12 mois d'inactivité
+
+---
+
+## Option "Autoriser l'analyse de conversation"
+
+**Par défaut :** Désactivée
+
+**Si activée :**
+
+* L'équipe produit DINUM peut accéder à vos conversations
+* **Uniquement** à des fins d'amélioration et de support
+* Les données **ne sont jamais** utilisées pour entraîner des modèles
+* Les données **ne sont jamais** partagées avec des tiers
+
+**Si désactivée :**
+
+* Vos conversations restent **strictement privées**
+* Seuls vous et les administrateurs techniques (en cas de problème) peuvent y accéder
+
+**Où modifier :** Paramètres > Confidentialité > Autoriser l'analyse de conversation
+
+---
+
 ## À quoi servent vos données ?
 
 ### Finalités principales
