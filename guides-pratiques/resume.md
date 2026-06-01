@@ -1,7 +1,7 @@
 ---
 description: >-
-  Résumé intelligent de documents, de pages web et de conversations avec
-  l'outil de résumé intégré.
+  Résumé intelligent de documents, de pages web et de conversations avec l'outil
+  de résumé intégré.
 icon: file-lines
 ---
 
@@ -35,6 +35,7 @@ Assistant : "Voici un résumé des dernières avancées..."
 ```
 
 Ou avec une URL spécifique :
+
 ```
 Vous : "Résume l'article à cette URL : https://exemple.com/article-long"
 Assistant : "Voici le résumé de l'article..."
@@ -53,13 +54,13 @@ Assistant : "Voici les points principaux de notre conversation..."
 
 ### Types de résumés
 
-| Type | Description | Cas d'usage |
-|------|-------------|------------|
-| **Résumé court** | 3-5 points clés | Aperçu rapide |
-| **Résumé détaillé** | 10-15 points avec contexte | Analyse approfondie |
-| **Résumé structuré** | Avec titres et sections | Documents formels |
-| **Résumé en bullet points** | Liste de points | Présentations |
-| **Résumé en paragraphe** | Texte continu | Rapports |
+| Type                        | Description                | Cas d'usage         |
+| --------------------------- | -------------------------- | ------------------- |
+| **Résumé court**            | 3-5 points clés            | Aperçu rapide       |
+| **Résumé détaillé**         | 10-15 points avec contexte | Analyse approfondie |
+| **Résumé structuré**        | Avec titres et sections    | Documents formels   |
+| **Résumé en bullet points** | Liste de points            | Présentations       |
+| **Résumé en paragraphe**    | Texte continu              | Rapports            |
 
 ### Personnalisation du résumé
 
@@ -86,25 +87,27 @@ Vous : "Quels sont les 5 points d'action mentionnés ?"
 ### Résumé de documents
 
 Avec l'outil **Summarize** :
-- ✅ Traitement de PDFs, Word, Markdown, etc.
-- ✅ Identification automatique des sections importantes
-- ✅ Conservation de la structure (titres, sous-titres)
-- ✅ Extraction des données clés (dates, noms, chiffres)
+
+* ✅ Traitement de PDFs, Word, Markdown, etc.
+* ✅ Identification automatique des sections importantes
+* ✅ Conservation de la structure (titres, sous-titres)
+* ✅ Extraction des données clés (dates, noms, chiffres)
 
 ### Résumé de résultats de recherche web
 
 Avec Brave Search + Summarize :
-- ✅ Résumé automatique des résultats
-- ✅ Synthèse multi-sources
-- ✅ Détection des informations contradictoires
-- ✅ Hiérarchisation par pertinence
+
+* ✅ Résumé automatique des résultats
+* ✅ Synthèse multi-sources
+* ✅ Détection des informations contradictoires
+* ✅ Hiérarchisation par pertinence
 
 ### Résumé de conversations
 
-- ✅ Conservation du contexte
-- ✅ Identification des décisions et actions
-- ✅ Groupement par thèmes
-- ✅ Mise en évidence des points non résolus
+* ✅ Conservation du contexte
+* ✅ Identification des décisions et actions
+* ✅ Groupement par thèmes
+* ✅ Mise en évidence des points non résolus
 
 ## Bonnes pratiques
 
@@ -118,11 +121,11 @@ Avec Brave Search + Summarize :
 
 ### Exemples de requêtes efficaces
 
-| ❌ Moins bon | ✅ Meilleur | Pourquoi |
-|-------------|-----------|---------|
-| "Résume" | "Résume ce document en 5 points clés" | Plus précis |
-| "Donne le résumé" | "Fais un résumé structuré avec introduction et conclusion" | Plus détaillé |
-| "Dis-moi ce qu'il y a" | "Quels sont les arguments principaux et les preuves ?" | Plus ciblé |
+| ❌ Moins bon            | ✅ Meilleur                                                 | Pourquoi      |
+| ---------------------- | ---------------------------------------------------------- | ------------- |
+| "Résume"               | "Résume ce document en 5 points clés"                      | Plus précis   |
+| "Donne le résumé"      | "Fais un résumé structuré avec introduction et conclusion" | Plus détaillé |
+| "Dis-moi ce qu'il y a" | "Quels sont les arguments principaux et les preuves ?"     | Plus ciblé    |
 
 ## Paramètres avancés
 
@@ -160,6 +163,7 @@ Vous : "Fais un résumé en français de cet article"
 **Vous** : "Voici un rapport technique de 100 pages sur l'architecture de notre système. Peux-tu me le résumer en me concentrant sur les parties concernant la sécurité et la scalabilité ?"
 
 **Assistant** :
+
 ```
 Résumé du rapport technique - Focus Sécurité et Scalabilité
 
@@ -183,6 +187,7 @@ Résumé du rapport technique - Focus Sécurité et Scalabilité
 **Vous** : "Recherche les dernières nouvelles sur l'IA générative et résume en 3 points"
 
 **Assistant** :
+
 ```
 Dernières nouvelles sur l'IA générative (juin 2025) :
 
@@ -198,6 +203,7 @@ Souhaitez-vous des détails sur un de ces points ?
 **Vous** : "Nous avons discuté de beaucoup de choses. Peux-tu me faire un récapitulatif des décisions prises ?"
 
 **Assistant** :
+
 ```
 Récapitulatif des décisions de cette conversation :
 
@@ -245,19 +251,11 @@ Vous : "Résume tous les documents de la collection 'Projet Beta'"
 
 ### Ce que le résumé peut faire
 
-✅ Comprendre le contenu principal
-✅ Identifier les points clés
-✅ Extraire des informations structurées
-✅ Synthétiser des informations multiples
-✅ Détecter les thèmes principaux
+✅ Comprendre le contenu principal ✅ Identifier les points clés ✅ Extraire des informations structurées ✅ Synthétiser des informations multiples ✅ Détecter les thèmes principaux
 
 ### Ce que le résumé ne peut pas faire
 
-❌ Comprendre le contexte non écrit
-❌ Interpréter des informations ambiguës
-❌ Garantir l'exactitude à 100%
-❌ Remplacer une lecture complète pour les décisions critiques
-❌ Comprendre les nuances subjectives
+❌ Comprendre le contexte non écrit ❌ Interpréter des informations ambiguës ❌ Garantir l'exactitude à 100% ❌ Remplacer une lecture complète pour les décisions critiques ❌ Comprendre les nuances subjectives
 
 ### Conseils pour une utilisation optimale
 
@@ -270,55 +268,59 @@ Vous : "Résume tous les documents de la collection 'Projet Beta'"
 ## Résolution des problèmes
 
 <details>
+
 <summary>Le résumé est trop court/vague</summary>
 
-- Demandez un résumé plus détaillé
-- Précisez le nombre de points souhaités
-- Demandez un résumé structuré
-- Essayez un autre modèle (Mistral Large donne des résumés plus complets)
+* Demandez un résumé plus détaillé
+* Précisez le nombre de points souhaités
+* Demandez un résumé structuré
+* Essayez un autre modèle (Mistral Large donne des résumés plus complets)
 
 </details>
 
 <details>
+
 <summary>Le résumé manque d'informations importantes</summary>
 
-- Demandez spécifiquement les informations manquantes
-- Vérifiez que le document a été correctement uploadé
-- Essayez de résumer des sections spécifiques du document
-- Demandez un résumé avec un focus particulier
+* Demandez spécifiquement les informations manquantes
+* Vérifiez que le document a été correctement uploadé
+* Essayez de résumer des sections spécifiques du document
+* Demandez un résumé avec un focus particulier
 
 </details>
 
 <details>
+
 <summary>Le résumé contient des informations incorrectes</summary>
 
-- Vérifiez l'exactitude avec la source originale
-- Donnez un retour négatif (👎) avec une explication
-- Demandez à l'assistant de vérifier une information spécifique
-- Signalez le problème à votre administrateur
+* Vérifiez l'exactitude avec la source originale
+* Donnez un retour négatif (👎) avec une explication
+* Demandez à l'assistant de vérifier une information spécifique
+* Signalez le problème à votre administrateur
 
 </details>
 
 <details>
+
 <summary>Le résumé est trop long</summary>
 
-- Demandez un résumé plus court
-- Précisez un nombre maximum de points
-- Demandez uniquement les points principaux
-- Utilisez des bullet points pour plus de concision
+* Demandez un résumé plus court
+* Précisez un nombre maximum de points
+* Demandez uniquement les points principaux
+* Utilisez des bullet points pour plus de concision
 
 </details>
 
 ## Ressources connexes
 
-{% content-ref url="documents.md" %}
-[documents.md](documents.md)
+{% content-ref url="../guides/documents.md" %}
+[documents.md](../guides/documents.md)
 {% endcontent-ref %}
 
-{% content-ref url="web-search.md" %}
-[web-search.md](web-search.md)
+{% content-ref url="recherche-web.md" %}
+[recherche-web.md](recherche-web.md)
 {% endcontent-ref %}
 
-{% content-ref url="//advanced/automations-and-api.md" %}
-[Automatisations et API](//advanced/automations-and-api.md)
+{% content-ref url="https://advanced/automations-and-api.md" %}
+[//advanced/automations-and-api.md](https://advanced/automations-and-api.md)
 {% endcontent-ref %}

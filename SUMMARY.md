@@ -4,32 +4,32 @@
 
 ## 🚀 Pour commencer
 
-* [Introduction](getting-started/getting-started.md)
-* [Guide rapide](getting-started/quickstart.md)
+* [Introduction](pour-commencer/introduction.md)
+* [Guide rapide](pour-commencer/guide-rapide.md)
 
 ## 📚 Concepts de base
 
-* [Présentation](core-concepts/core-concepts.md)
-* [Espace de travail et assistants](core-concepts/workspaces-and-chatbots.md)
+* [Présentation](concepts-de-base/presentation.md)
+* [Projets dans l'Assistant](concepts-de-base/projets.md)
 * [Sécurité et souveraineté](core-concepts/security-and-sovereignty.md)
 
 ## 🎯 Guides pratiques
 
 * [Gestion des documents](guides/documents.md)
-* [Recherche web](guides/web-search.md)
-* [Résumé automatique](guides/summarize.md)
+* [Recherche web](guides-pratiques/recherche-web.md)
+* [Résumé automatique](guides-pratiques/resume.md)
 
 ## 🛠️ Pour aller plus loin
 
-* [Automatisations et API](advanced/automations-and-api.md)
+* [Automatisations et API](pour-aller-plus-loin/automatisations-et-api.md)
 
 ## 🆘 Dépannage
 
-* [Troubleshooting](troubleshooting/troubleshooting.md)
+* [Comprendre les erreurs de l'Assistant](depannage/erreurs.md)
 * [Questions fréquentes](troubleshooting/faq.md)
 * [Signaler un problème](troubleshooting/report-issue.md)
 
-## 📖 Référence
+## 📖 Documentation légale
 
-* [Mentions légales](reference/legal.md)
-* [Protection des données](reference/data-protection.md)
+* [Mentions légales](documentation-legale/legal.md)
+* [Protection des données](documentation-legale/data-protection.md)

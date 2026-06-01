@@ -1,10 +1,11 @@
 ---
 description: >-
-  Guide complet pour démarrer avec l'Assistant IA : de la première connexion à la maîtrise des fonctionnalités essentielles en 10 minutes.
+  Guide complet pour démarrer avec l'Assistant IA : de la première connexion à
+  la maîtrise des fonctionnalités essentielles en 10 minutes.
 icon: clock
 ---
 
-# Guide Rapide - 10 minutes pour maîtriser l'Assistant IA
+# Guide rapide
 
 Ce guide complet vous permet de **découvrir les fonctionnalités essentielles** de l'Assistant IA en un temps record. Suivez les étapes dans l'ordre pour une prise en main efficace.
 
@@ -12,21 +13,21 @@ Ce guide complet vous permet de **découvrir les fonctionnalités essentielles**
 **Temps estimé :** 10 minutes | **Niveau :** Débutant | **Prérequis :** Avoir accès à l'Assistant IA
 {% endhint %}
 
----
+***
 
 ## 1. Comprendre les capacités de votre assistant
 
 Avant de commencer, sachez que votre Assistant IA peut :
 
-- **Répondre à des questions** sur l'administration publique, les procédures et les services
-- **Fournir des explications** claires sur des concepts complexes
-- **Vous guider** à travers des processus étape par étape
-- **Rechercher des informations actualisées** sur le web
-- **Analyser des documents** (PDF, Word, Excel, PowerPoint, images, etc.)
-- **Organiser votre travail** via des projets avec des instructions communes
-- **Gérer vos conversations** : renommer, archiver, épingler, dupliquer
+* **Répondre à des questions** sur l'administration publique, les procédures et les services
+* **Fournir des explications** claires sur des concepts complexes
+* **Vous guider** à travers des processus étape par étape
+* **Rechercher des informations actualisées** sur le web
+* **Analyser des documents** (PDF, Word, Excel, PowerPoint, images, etc.)
+* **Organiser votre travail** via des projets avec des instructions communes
+* **Gérer vos conversations** : renommer, supprimer.
 
----
+***
 
 ## 2. Connexion et première conversation
 
@@ -35,28 +36,19 @@ Avant de commencer, sachez que votre Assistant IA peut :
 #### Connectez-vous à la plateforme
 
 Accédez à [assistant.numerique.gouv.fr](https://assistant.numerique.gouv.fr) et connectez-vous avec **ProConnect**.
-
-{% tabs %}
-{% tab title="Navigateur web" %}
-Ouvrez votre navigateur et rendez-vous directement sur le site. L'interface est optimisée pour tous les navigateurs modernes.
-{% endtab %}
-
-{% tab title="Application mobile" %}
-Si disponible, utilisez l'application mobile de votre administration.
-{% endtab %}
-{% endtabs %}
 {% endstep %}
 
 {% step %}
 #### Démarrez une nouvelle conversation
 
-Une fois connecté, **cliquez sur "Nouvelle conversation"** (ou utilisez le raccourci **Ctrl+K**).
+Une fois connecté, **cliquez sur "Nouvelle conversation"**.
 {% endstep %}
 
 {% step %}
 #### Envoyez votre première question
 
 Tapez votre première question dans le champ de message et envoyez :
+
 ```
 Bonjour ! Peux-tu te présenter brièvement ?
 ```
@@ -71,9 +63,7 @@ L'assistant affichera sa réponse en temps réel. Vous pouvez lire, copier ou é
 {% endstep %}
 {% endstepper %}
 
-✅ **Vous avez** : Créé votre première conversation avec l'Assistant IA
-
----
+***
 
 ## 3. Poser des questions efficaces
 
@@ -82,16 +72,19 @@ L'assistant affichera sa réponse en temps réel. Vous pouvez lire, copier ou é
 La qualité de la réponse dépend de la qualité de votre question. Voici trois approches :
 
 **1. Question simple (pour des informations basiques) :**
+
 ```
 Qu'est-ce que la DINUM ?
 ```
 
 **2. Question avec contexte (pour des réponses plus précises) :**
+
 ```
 Je suis un agent public. Quels sont mes droits en matière de télétravail selon la réglementation 2026 ?
 ```
 
 **3. Question structurée (méthode recommandée pour les sujets complexes) :**
+
 ```
 Rôle : Tu es un expert en administration publique.
 Objectif : Expliquer simplement le RGPD à un collègue.
@@ -109,8 +102,7 @@ Question : Peux-tu faire une explication simple avec des exemples concrets ?
 4. **Reformulez si nécessaire** : Si la réponse n'est pas pertinente, essayez de poser la question différemment
 5. **Utilisez des mots-clés** : Incluez les termes importants liés à votre question
 
-
----
+***
 
 ## 4. Recherche web
 
@@ -125,6 +117,7 @@ Pour obtenir des informations actualisées, **cliquez sur l'icône 🌐** dans l
 #### Posez une question nécessitant des informations récentes
 
 Exemple :
+
 ```
 Quelles sont les dernières annonces du gouvernement sur la transformation numérique ?
 ```
@@ -143,8 +136,7 @@ Dans vos **paramètres**, vous pouvez activer la **"recherche intelligente"** po
 {% endstep %}
 {% endstepper %}
 
-
----
+***
 
 ## 5. Téléversement et analyse de documents
 
@@ -154,27 +146,20 @@ Dans vos **paramètres**, vous pouvez activer la **"recherche intelligente"** po
 
 Ayez un fichier prêt (PDF, Word, Excel, PowerPoint, image, texte, etc.).
 
-**Formats supportés :** PDF, JPG, PNG, DOCX, PPTX, XLSX, MD, TXT
-**Taille maximale :** 10 Mo
+**Formats supportés :** PDF, JPG, PNG, DOCX, PPTX, XLSX, MD, TXT **Taille maximale :** 10 Mo
 {% endstep %}
 
 {% step %}
 #### Glissez-déposez le fichier
 
-**Méthode 1 :** Glissez-déposez le fichier directement dans la fenêtre de conversation.
-**Méthode 2 :** Cliquez sur **📎 Joindre un fichier** dans la barre de saisie.
-{% endstep %}
-
-{% step %}
-#### Attendez le téléchargement
-
-Le fichier sera téléchargé et analysé. Une confirmation s'affichera une fois le processus terminé.
+**Méthode 1 :** Glissez-déposez le fichier directement dans la fenêtre de conversation. **Méthode 2 :** Cliquez sur **📎 Joindre un fichier** dans la barre de saisie.
 {% endstep %}
 
 {% step %}
 #### Posez une question sur le document
 
 Exemples :
+
 ```
 Peux-tu me faire un résumé de ce document ?
 ```
@@ -185,10 +170,15 @@ ou
 Quel est le montant total mentionné dans ce fichier ?
 ```
 {% endstep %}
+
+{% step %}
+#### Analyse du document et réponse
+
+Après avoir envoyé votre message, le ou les documents seront analysés par l'Assistant pour en extraire le texte et la structure, puis l'Assistant utilisera les outils à sa disposition pour vous répondre en s'appuyant sur les documents ! Plus d'informations sur la page [documents.md](../guides/documents.md "mention")
+{% endstep %}
 {% endstepper %}
 
-
----
+***
 
 ## 6. Gestion des conversations
 
@@ -213,12 +203,9 @@ Dans la **barre latérale**, cliquez sur une conversation pour y revenir. Utilis
 3. Donnez un nom explicite (ex: "RGPD - Explication")
 4. Vous pouvez aussi laisser le titre automatiquement généré lors de votre premier message !
 {% endstep %}
-
-
 {% endstepper %}
 
-
----
+***
 
 ## 7. Projets et instructions communes
 
@@ -236,7 +223,7 @@ Les **projets** vous permettent de créer des espaces de travail organisés avec
 2. Donnez un **nom** à votre projet (ex: "Rédaction administrative")
 3. Ajoutez une **instruction** (ex: "Tu es un rédacteur administratif expert. Utilise un style formel, précis et conforme aux règles de la langue française.")
 4. Ajoutez les **documents** que vous souhaitez joindre à la base commune à toutes les conversations du projet.
-4. Cliquez sur **"Créer"**
+5. Cliquez sur **"Créer"**
 {% endstep %}
 
 {% step %}
@@ -249,8 +236,7 @@ Les **projets** vous permettent de créer des espaces de travail organisés avec
 {% endstep %}
 {% endstepper %}
 
-
----
+***
 
 ## 8. Paramètres de confidentialité
 
@@ -258,9 +244,7 @@ Les **projets** vous permettent de créer des espaces de travail organisés avec
 {% step %}
 #### Accéder aux paramètres
 
-1. Cliquez sur la roue des paramètres en bas à gauche
-2. Sélectionnez **"Général"**
-3. Accédez à l'onglet **"Confidentialité"**
+Cliquez sur la roue des paramètres en bas à gauche
 {% endstep %}
 
 {% step %}
@@ -268,56 +252,50 @@ Les **projets** vous permettent de créer des espaces de travail organisés avec
 
 Passez en revue les options :
 
-- **Autoriser l'analyse de conversation** :
-  - ✅ **Activé** : L'équipe peut accéder à vos conversations pour améliorer le service
-  - ❌ **Désactivé** : Vos conversations restent strictement privées
-  - **Recommandation** : Désactivez si vous travaillez avec des informations sensibles
-
-- **Autoriser la recherche intelligente** : Activez/désactivez la recherche web automatique
-
-- **Mesure d'audience** : Autorisez ou non la collecte de statistiques d'usage
+* **Autoriser l'analyse de conversation** :
+  * ✅ **Activé** : L'équipe peut accéder à vos conversations pour améliorer le service
+  * ❌ **Désactivé** : Vos conversations restent strictement privées
+  * **Recommandation** : Désactivez si vous travaillez avec des informations sensibles
+* **Autoriser la recherche intelligente** : Activez/désactivez la recherche web automatique
 
 N'oubliez pas de **sauvegarder** vos modifications.
 {% endstep %}
 {% endstepper %}
 
-✅ **Vous avez** : Configuré vos paramètres de confidentialité
 
 
----
+***
 
 ## Résumé de ce que vous avez appris
 
-| Fonctionnalité | Action | Résultat |
-|---------------|--------|----------|
-| ✅ Connexion | ProConnect | Accès à l'Assistant |
-| ✅ Conversation | Envoyer un message | Réponse de l'IA |
-| ✅ Formulation | Structurer sa question | Meilleure pertinence |
-| ✅ Recherche web | Cliquer sur 🌐 | Informations actualisées |
-| ✅ Documents | Glisser-déposer | Analyse de fichiers |
-| ✅ Gestion | Renommer, archiver | Organisation efficace |
-| ✅ Projets | Créer un espace | Travail organisé |
-| ✅ Confidentialité | Configurer | Contrôle de vos données |
+| Fonctionnalité    | Action                 | Résultat                 |
+| ----------------- | ---------------------- | ------------------------ |
+| ✅ Connexion       | ProConnect             | Accès à l'Assistant      |
+| ✅ Conversation    | Envoyer un message     | Réponse de l'IA          |
+| ✅ Formulation     | Structurer sa question | Meilleure pertinence     |
+| ✅ Recherche web   | Cliquer sur 🌐         | Informations actualisées |
+| ✅ Documents       | Glisser-déposer        | Analyse de fichiers      |
+| ✅ Gestion         | Renommer, archiver     | Organisation efficace    |
+| ✅ Projets         | Créer un espace        | Travail organisé         |
+| ✅ Confidentialité | Configurer             | Contrôle de vos données  |
 
----
+***
 
 ## Prochaines étapes
 
 Maintenant que vous maîtrisez les bases, explorez :
 
-1. **[Gestion des documents](../guides/documents.md)** - Maîtriser l'analyse de fichiers
-2. **[Recherche web](../guides/web-search.md)** - Approfondir la recherche d'informations
-3. **[Bases documentaires](../advanced/automations-and-api.md#bases-documentaires-et-projets)** - Organiser vos documents
-4. **[Troubleshooting](../troubleshooting/troubleshooting.md)** - Résoudre les problèmes courants
+1. [**Gestion des documents**](../guides/documents.md) - Maîtriser l'analyse de fichiers
+2. [**Recherche web**](../guides-pratiques/recherche-web.md) - Approfondir la recherche d'informations
+3. [**Bases documentaires**](../pour-aller-plus-loin/automatisations-et-api.md#bases-documentaires-et-projets) - Organiser vos documents
+4. [**Troubleshooting**](../depannage/erreurs.md) - Résoudre les problèmes courants
 
----
-
-
+***
 
 {% hint style="success" icon="trophy" %}
 Vous avez maintenant les **bases nécessaires** pour utiliser efficacement l'Assistant IA. Plus vous l'utiliserez, plus vous découvrirez de fonctionnalités avancées. N'hésitez pas à **explorer, tester et faire des retours** pour améliorer l'outil.
 {% endhint %}
 
-{% hint style="info" icon="question-circle" %}
+{% hint style="info" %}
 **Besoin d'aide ?** Consultez notre [FAQ](../troubleshooting/faq.md) ou [signalez un problème](../troubleshooting/report-issue.md).
 {% endhint %}

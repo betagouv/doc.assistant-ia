@@ -1,7 +1,7 @@
 ---
 description: >-
-  Recherche web en temps réel avec Brave Search et résumé automatique des résultats
-  pour des réponses rapides et précises.
+  Recherche web en temps réel avec Brave Search et résumé automatique des
+  résultats pour des réponses rapides et précises.
 icon: globe
 ---
 
@@ -27,11 +27,13 @@ Assistant : "Je vais effectuer une recherche web pour vous..."
 ### Méthode 2 : Questions nécessitant des infos récentes
 
 L'assistant peut **automatiquement** déclencher une recherche web si :
-- Votre question porte sur des **actualités récentes**
-- Votre question nécessite des **informations à jour**
-- La réponse n'est pas disponible dans la base de connaissances
+
+* Votre question porte sur des **actualités récentes**
+* Votre question nécessite des **informations à jour**
+* La réponse n'est pas disponible dans la base de connaissances
 
 Exemples :
+
 ```
 Vous : "Quels sont les derniers résultats des élections 2025 ?"
 Vous : "Quel est le taux de change euro/dollar aujourd'hui ?"
@@ -53,12 +55,13 @@ Assistant : "Je vais rechercher les tendances récentes ET consulter nos documen
 
 Les résultats de recherche sont **automatiquement résumés** pour vous fournir :
 
-- 📌 **Points clés** extraits des sources
-- 🔗 **Liens pertinents** vers les articles complets
-- 📊 **Synthèse** des informations principales
-- ⏱️ **Gain de temps** : pas besoin de lire tous les articles
+* 📌 **Points clés** extraits des sources
+* 🔗 **Liens pertinents** vers les articles complets
+* 📊 **Synthèse** des informations principales
+* ⏱️ **Gain de temps** : pas besoin de lire tous les articles
 
 Exemple de sortie :
+
 ```
 Assistant : "Voici les points clés sur les tendances IA 2025 :
 
@@ -72,88 +75,93 @@ Souhaitez-vous que je développe un de ces points ?"
 ### Filtrage des résultats
 
 L'assistant filtre automatiquement :
-- ✅ **Sources fiables** (médias reconnus, sites gouvernementaux)
-- ✅ **Contenu récent** (priorité aux informations à jour)
-- ✅ **Pertinence** (correspondance avec votre question)
-- ❌ **Contenu non pertinent**
-- ❌ **Sources peu fiables**
+
+* ✅ **Sources fiables** (médias reconnus, sites gouvernementaux)
+* ✅ **Contenu récent** (priorité aux informations à jour)
+* ✅ **Pertinence** (correspondance avec votre question)
+* ❌ **Contenu non pertinent**
+* ❌ **Sources peu fiables**
 
 ## Bonnes pratiques
 
 ### Formuler de bonnes requêtes
 
-| ❌ À éviter | ✅ Recommandé | Pourquoi |
-|-----------|--------------|---------|
-| "IA" | "Quelles sont les dernières avancées en IA générative en 2025 ?" | Plus spécifique = meilleurs résultats |
-| "météo" | "Quelle est la météo à Paris demain ?" | Précis = réponse ciblée |
-| "actualités" | "Quelles sont les actualités tech aujourd'hui ?" | Trop large = trop de résultats |
+| ❌ À éviter   | ✅ Recommandé                                                     | Pourquoi                              |
+| ------------ | ---------------------------------------------------------------- | ------------------------------------- |
+| "IA"         | "Quelles sont les dernières avancées en IA générative en 2025 ?" | Plus spécifique = meilleurs résultats |
+| "météo"      | "Quelle est la météo à Paris demain ?"                           | Précis = réponse ciblée               |
+| "actualités" | "Quelles sont les actualités tech aujourd'hui ?"                 | Trop large = trop de résultats        |
 
 ### Évaluer les résultats
 
-- ✅ **Vérifiez les sources** citées dans les résultats
-- ✅ **Croisez les informations** avec d'autres sources
-- ⚠️ **Méfiez-vous** des informations non vérifiées
-- ❌ **Ne partagez pas** d'informations sensibles trouvées en ligne
+* ✅ **Vérifiez les sources** citées dans les résultats
+* ✅ **Croisez les informations** avec d'autres sources
+* ⚠️ **Méfiez-vous** des informations non vérifiées
+* ❌ **Ne partagez pas** d'informations sensibles trouvées en ligne
 
 ### Limites à connaître
 
-- ⚠️ **Accès limité** : Certains sites bloquent les robots de recherche
-- ⚠️ **Paywalls** : Les articles payants ne seront pas accessibles
-- ⚠️ **Actualité** : Les informations peuvent être obsolètes quelques heures après la recherche
-- ⚠️ **Biais** : Tous les moteurs de recherche ont des biais potentiels
+* ⚠️ **Accès limité** : Certains sites bloquent les robots de recherche
+* ⚠️ **Paywalls** : Les articles payants ne seront pas accessibles
+* ⚠️ **Actualité** : Les informations peuvent être obsolètes quelques heures après la recherche
+* ⚠️ **Biais** : Tous les moteurs de recherche ont des biais potentiels
 
 ## Sécurité et confidentialité
 
 ### Ce que votre assistant NE fait PAS :
 
-- ❌ **Ne stocke pas** votre historique de recherche 
-- ❌ **Ne partage pas** vos requêtes avec des tiers
-- ❌ **Ne suit pas** votre activité sur le web
-- ❌ **N'affiche pas** de publicités ciblées
+* ❌ **Ne stocke pas** votre historique de recherche
+* ❌ **Ne partage pas** vos requêtes avec des tiers
+* ❌ **Ne suit pas** votre activité sur le web
+* ❌ **N'affiche pas** de publicités ciblées
 
 ### Bonnes pratiques :
 
-- ✅ Utilisez la recherche web pour des **informations publiques** uniquement
-- ✅ **Ne recherchez pas** d'informations personnelles ou sensibles
-- ✅ **Vérifiez** toujours les sources avant de partager des informations
-- ✅ **Respectez** les droits d'auteur et les politiques d'utilisation
+* ✅ Utilisez la recherche web pour des **informations publiques** uniquement
+* ✅ **Ne recherchez pas** d'informations personnelles ou sensibles
+* ✅ **Vérifiez** toujours les sources avant de partager des informations
+* ✅ **Respectez** les droits d'auteur et les politiques d'utilisation
 
 ## Résolution des problèmes
 
 <details>
+
 <summary>La recherche ne retourne aucun résultat</summary>
 
-- Vérifiez que votre question est claire et spécifique
-- Essayez de reformuler avec des mots-clés différents
-- Vérifiez que vous n'avez pas désactivé la recherche web
-- Essayez une recherche plus large
-- Contactez le support si le problème persiste
+* Vérifiez que votre question est claire et spécifique
+* Essayez de reformuler avec des mots-clés différents
+* Vérifiez que vous n'avez pas désactivé la recherche web
+* Essayez une recherche plus large
+* Contactez le support si le problème persiste
 
 </details>
 
 <details>
+
 <summary>Les résultats sont obsolètes</summary>
 
-- La recherche web peut avoir une légère latence
-- Essayez d'ajouter "après:[date]" à votre requête
-- Vérifiez directement sur les sites sources
+* La recherche web peut avoir une légère latence
+* Essayez d'ajouter "après:\[date]" à votre requête
+* Vérifiez directement sur les sites sources
 
 </details>
 
 <details>
+
 <summary>Les résultats ne sont pas pertinents</summary>
 
-- Soyez plus spécifique dans votre requête
-- Ajoutez plus de contexte à votre question
-- Essayez de poser la question différemment
+* Soyez plus spécifique dans votre requête
+* Ajoutez plus de contexte à votre question
+* Essayez de poser la question différemment
 
 </details>
 
 <details>
+
 <summary>Je ne vois pas les liens vers les sources</summary>
 
-- Les liens sont affichés à la fin de chaque message
-- Cliquez sur "Voir la source" 
+* Les liens sont affichés à la fin de chaque message
+* Cliquez sur "Voir la source"
 
 </details>
 
@@ -164,6 +172,7 @@ L'assistant filtre automatiquement :
 **Vous** : "Quelles sont les dernières nouvelles sur la réglementation IA en Europe ?"
 
 **Assistant** :
+
 ```
 Voici les dernières informations sur la réglementation IA en Europe (juin 2025) :
 
@@ -184,6 +193,7 @@ Souhaitez-vous que je rechercher des détails sur un point spécifique ?
 **Vous** : "Comparez les derniers smartphones Samsung et Apple en 2025"
 
 **Assistant** :
+
 ```
 Comparaison des flagships 2025 :
 
@@ -203,14 +213,14 @@ Souhaitez-vous plus de détails sur un modèle en particulier ?
 
 ## Ressources connexes
 
-{% content-ref url="documents.md" %}
-[documents.md](documents.md)
+{% content-ref url="../guides/documents.md" %}
+[documents.md](../guides/documents.md)
 {% endcontent-ref %}
 
-{% content-ref url="summarize.md" %}
-[summarize.md](summarize.md)
+{% content-ref url="resume.md" %}
+[resume.md](resume.md)
 {% endcontent-ref %}
 
-{% content-ref url="models.md" %}
-[models.md](models.md)
+{% content-ref url="../guides/models.md" %}
+[models.md](../guides/models.md)
 {% endcontent-ref %}
