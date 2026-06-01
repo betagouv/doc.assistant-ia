@@ -3,7 +3,7 @@ description: Comment les projets s'organisent et quand en créer un nouveau.
 icon: sitemap
 ---
 
-# Projets
+# Espace de travail et assistants
 
 Les projets sont le conteneur principal qui organise votre travail sur la plateforme. Chaque projet est un système prompt spécialisé combiné à des fichiers, vous permettant de créer autant de conversations que souhaité.
 
@@ -22,21 +22,15 @@ graph TD
   P1 --> Docs1[Documents]
 ```
 
-
 ## Recherche
 
 La recherche permet de chercherune conversation par son titre. L'affichage des conversations dans la barre de recherche inclus le titre du projet dans lequel elle se trouve pour faciliter l'identification de celles-cis.
 
 ## Projets
 
-Un projet est un [système prompt](../glossary.md#système-prompt) spécialisé combiné à des fichiers. Chaque projet permet de créer autant de conversations que souhaité, avec des interactions qui suivent les instructions spécialisées du projet et peuvent rechercher dans ses documents.
+Un projet est un [système prompt](../glossary.md#syst%C3%A8me-prompt) spécialisé combiné à des fichiers. Chaque projet permet de créer autant de conversations que souhaité, avec des interactions qui suivent les instructions spécialisées du projet et peuvent rechercher dans ses documents.
 
-| Composant | À quoi ça sert | |
-|-----------|---------------| |
-| **Prompt système** | Les instructions spécialisées qui guident toutes les conversations du projet | |
-| **Documents** | Les fichiers accessibles pour la recherche et le contexte | |
-| **Conversations** | Historique de toutes les interactions utilisateur | |
-| **Paramètres** | Configuration pour les réponses, le comportement et l'apparence | |
+\| Composant | À quoi ça sert | | |-----------|---------------| | | **Prompt système** | Les instructions spécialisées qui guident toutes les conversations du projet | | | **Documents** | Les fichiers accessibles pour la recherche et le contexte | | | **Conversations** | Historique de toutes les interactions utilisateur | | | **Paramètres** | Configuration pour les réponses, le comportement et l'apparence | |
 
 Les projets sont isolés les uns des autres. Les documents, l'historique des conversations et les configurations ne se partagent pas entre les projets.
 
@@ -46,21 +40,21 @@ Une question courante : « Faut-il en faire un seul ou plusieurs ? »
 
 Utilisez **des projets séparés** quand :
 
-- Ils servent des objectifs différents (ex: support vs. technique)
-- Ils ont besoin de documents différents
+* Ils servent des objectifs différents (ex: support vs. technique)
+* Ils ont besoin de documents différents
 
 Utilisez **un seul projet** quand :
 
-- C'est le même cas d'usage avec un seul ensemble d'instructions spécialisées
-- Vous souhaitez centraliser les documents et le contexte
-- Les différences sont mineures et peuvent être gérées dans un seul projet
+* C'est le même cas d'usage avec un seul ensemble d'instructions spécialisées
+* Vous souhaitez centraliser les documents et le contexte
+* Les différences sont mineures et peuvent être gérées dans un seul projet
 
 ## Ressources connexes
 
 {% content-ref url="permissions.md" %}
-[autorisations.md](permissions.md)
+[permissions.md](permissions.md)
 {% endcontent-ref %}
 
-{% content-ref url="../reference/configuration.md" %}
-[configuration.md](../reference/configuration.md)
+{% content-ref url="/broken/pages/65332f63d0b6cedd6ac718136ba8d89ec6cc1a4d" %}
+[Broken link](/broken/pages/65332f63d0b6cedd6ac718136ba8d89ec6cc1a4d)
 {% endcontent-ref %}

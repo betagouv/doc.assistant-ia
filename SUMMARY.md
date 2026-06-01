@@ -1,4 +1,4 @@
-# Table des matières
+# Table of contents
 
 * [Bienvenue](README.md)
 
@@ -6,7 +6,6 @@
 
 * [Introduction](getting-started/getting-started.md)
 * [Guide rapide](getting-started/quickstart.md)
-* [Votre premier chat](getting-started/your-first-chatbot.md)
 
 ## 📚 Concepts de base
 
@@ -18,15 +17,11 @@
 
 * [Gestion des documents](guides/documents.md)
 * [Recherche web](guides/web-search.md)
-* [Sélection des modèles](guides/models.md)
 * [Résumé automatique](guides/summarize.md)
-* [Accessibilité](guides/accessibility.md)
-* [Analytique et scoring](guides/analytics.md)
 
 ## 🛠️ Pour aller plus loin
 
 * [Automatisations et API](advanced/automations-and-api.md)
-* [Feuille de route](advanced/feuille-de-route.md)
 
 ## 🆘 Dépannage
 
@@ -36,7 +31,5 @@
 
 ## 📖 Référence
 
-* [Configuration](reference/configuration.md)
-* [Glossaire](reference/glossary.md)
 * [Mentions légales](reference/legal.md)
 * [Protection des données](reference/data-protection.md)
