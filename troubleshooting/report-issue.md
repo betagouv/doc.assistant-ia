@@ -17,27 +17,8 @@ Vérifiez d'abord si votre problème est déjà documenté :
 
 ## Comment signaler un problème
 
-### Méthode 1 : Via le formulaire intégré (recommandé)
-
-Dans l'application Assistant IA :
-
-1. Cliquez sur le bouton **"Faire un retour"** (généralement en bas à droite ou dans le menu)
-2. Sélectionnez **"Signaler un problème technique"**
-3. Remplissez le formulaire avec les informations demandées
-4. Envoyez votre signalement
-
-### Méthode 2 : Via le formulaire en ligne
-
-Accédez au formulaire dédié : [https://formulaire.beta.numerique.gouv.fr/r/assistant](https://formulaire.beta.numerique.gouv.fr/r/assistant)
-
-### Méthode 3 : Via Tchap
-
-Rejoignez le canal dédié et décrivez votre problème :
-[https://tchap.gouv.fr/#/room/!eAHyPLdVHMxNhKAbaC:agent.dinum.tchap.gouv.fr](https://tchap.gouv.fr/#/room/!eAHyPLdVHMxNhKAbaC:agent.dinum.tchap.gouv.fr)
-
-### Méthode 4 : Par email
-
 Envoyez un email à : **support-assistant@numerique.gouv.fr**
+Nous centralisons toutes les remontées de problèmes et demandes de support.
 
 ---
 

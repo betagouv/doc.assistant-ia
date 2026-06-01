@@ -18,7 +18,7 @@ Votre assistant prend en charge plusieurs outils et fonctionnalités avancés :
 | **Recherche Web (Brave)** | Recherche en temps réel avec résumé automatique | ✅ Actif |
 | **Upload de documents** | Glisser-déposer de fichiers sur toute la page | ✅ Actif |
 | **Résumé automatique** | Résumé intelligent de documents et conversations | ✅ Actif |
-| **Collections** | Organisation de documents et ressources | ✅ Actif |
+| **Bases documentaires** | Organisation de documents et ressources | ✅ Actif |
 | **Sélection de modèles** | Choix entre Mistral Large, Mistral Small, Code Llama, etc. | ✅ Actif |
 
 ### 📋 Gestion des documents
@@ -26,7 +26,7 @@ Votre assistant prend en charge plusieurs outils et fonctionnalités avancés :
 - **Glisser-déposer** : Déposez des fichiers n'importe où sur la page (#104)
 - **Types de fichiers supportés** : PDF, Word, Markdown, TXT, Excel, etc.
 - **Types de fichiers bloqués** : Exécutables, scripts, archives (.exe, .bat, .sh, .zip, .rar, etc.) (#139)
-- **Taille maximale** : 50Mo par fichier (configurable)
+- **Taille maximale** : 10 Mo par fichier (configurable)
 - **Parsing amélioré** : Meilleure analyse et affichage des documents (#167)
 - **Affichage des longs prompts** : Gestion optimisée des messages longs (#174)
 
@@ -126,7 +126,7 @@ graph TD
 ✅ **Collection intelligente** : Organisation automatique des documents
 ✅ **Recherche avancée** : Opérateurs de recherche puissants
 ✅ **Export** : Exportation des conversations et documents
-✅ **Partage** : Collaboration sur les collections
+✅ **Partage** : Partage de projets
 
 ## Personnalisation
 
@@ -173,10 +173,10 @@ Pour chaque conversation, vous pouvez :
 
 ### Gestion des documents
 
-1. **Organisez vos collections** : Une collection par projet ou thème
+1. **Organisez vos projets** : Une collection par projet ou thème
 2. **Nommez clairement** : Utilisez des noms descriptifs pour les fichiers
 3. **Vérifiez les types** : Seuls les types supportés seront acceptés
-4. **Respectez les limites** : Taille maximale de 50Mo par fichier
+4. **Respectez les limites** : Taille maximale de 10 Mo par fichier
 5. **Partagez prudemment** : Ne partagez pas de documents sensibles
 
 ### Recherche Web
@@ -233,7 +233,7 @@ Cela ne devrait plus arriver grâce à la fonction de continuation automatique (
 
 - Vérifiez que vous utilisez un type de fichier supporté
 - Essayez de déposer le fichier dans le champ de message
-- Vérifiez que le fichier n'est pas trop grand (>50Mo)
+- Vérifiez que le fichier n'est pas trop grand (>10 Mo)
 - Assurez-vous que le fichier n'est pas bloqué (#139)
 - Essayez avec un autre navigateur
 
@@ -302,7 +302,7 @@ Si vous avez besoin d'aide :
 
 Pour voir les dernières améliorations et corrections :
 
-- **Fonctionnalité** : Ajout de la sélection de modèles, recherche web, collections
+- **Fonctionnalité** : Ajout de la sélection de modèles, recherche web, Projets et bases documentaires
 - **Corrections** : Parsing des documents (#167), affichage des longs prompts (#174), continuation après erreur (#99)
 - **Sécurité** : Blocage des fichiers dangereux (#139)
 - **UX** : Glisser-déposer étendu (#104), liens dans nouveaux onglets (#103), bouton de copie pour le code (#153, #164)

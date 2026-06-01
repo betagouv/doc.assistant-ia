@@ -5,7 +5,17 @@ icon: wrench
 
 # Troubleshooting - Résoudre les problèmes
 
-Cette section vous aide à résoudre les problèmes les plus courants rencontrés avec l'Assistant IA. Consultez les questions fréquentes ou signalez directement un problème si vous ne trouvez pas de solution.
+Cette section vous aide à résoudre les problèmes les plus courants rencontrés avec l'Assistant IA. **L'Assistant vous indiquera toujours l'erreur qu'il rencontre**, soit via un message d'erreur technique, soit par un message explicite comme :
+
+> *"Je n'arrive pas à accéder à internet, vérifiez que la configuration me l'autorise."*
+
+Pensez à **rafraîchir la page** (F5 ou Ctrl+R) pour vérifier s'il n'y a pas un **bandeau d'erreur** en haut de l'interface indiquant l'indisponibilité de certaines fonctionnalités. Ces dernières peuvent être configurées par l'équipe de l'Assistant ou mises à jour automatiquement lorsque des fonctionnalités cassées sont détectées.
+
+Si vous rencontrez un **vrai message d'erreur technique** (qui ne ressemble pas à une réponse normale de l'Assistant), vous pouvez réessayer dans une nouvelle conversation.
+
+Consultez les questions fréquentes ou signalez directement un problème si vous ne trouvez pas de solution.
+
+---
 
 ## Problèmes de connexion
 
@@ -38,34 +48,6 @@ Cette section vous aide à résoudre les problèmes les plus courants rencontré
 Si le problème persiste, [signalez-le à l'équipe](report-issue.md).
 {% endhint %}
 
----
-
-## Problèmes avec les conversations
-
-### L'Assistant ne répond pas
-
-**Symptômes :**
-- Pas de réponse après envoi d'un message
-- Le message reste en cours de traitement indéfiniment
-- Erreur "Impossible de générer une réponse"
-
-**Solutions :**
-
-1. **Vérifiez votre connexion internet**
-
-2. **Actualisez la page** (F5 ou Ctrl+R)
-
-3. **Vérifiez la longueur de votre message**
-   - Les messages trop longs peuvent causer des erreurs
-   - Essayez de diviser votre question en parties plus petites
-
-4. **Problème de modèle**
-   - Essayez de changer de modèle dans les paramètres de conversation
-   - Certains modèles peuvent être temporairement indisponibles
-
-5. **Limite de contexte atteinte**
-   - Si votre conversation est très longue, commencez une nouvelle conversation
-   - Résumez les points clés dans un nouveau message
 
 ### Les réponses sont incomplètes ou coupées
 
@@ -85,16 +67,17 @@ Si le problème persiste, [signalez-le à l'équipe](report-issue.md).
 **Symptômes :**
 - Bouton de téléversement grisé
 - Erreur lors du glisser-déposer
-- Message "Type de fichier non supporté"
+- Message **"Type de fichier non supporté"** (affiché par l'Assistant)
 
 **Solutions :**
 
 1. **Vérifiez le type de fichier**
    - Formats supportés : PDF, images (JPG, PNG, WEBP), documents bureautiques (.md, .docx, .pptx, .xlsx)
-   - Taille maximale : 50 Mo par fichier (variable selon la configuration)
+   - Taille maximale : 10 Mo par fichier (variable selon la configuration)
 
 2. **Vérifiez la disponibilité de la fonctionnalité**
    - Le téléversement de documents peut être temporairement désactivé pour maintenance
+   - Un **bandeau d'erreur** peut apparaître en haut de page
 
 3. **Essayez un autre navigateur**
 
@@ -124,7 +107,7 @@ Si le problème persiste, [signalez-le à l'équipe](report-issue.md).
 **Symptômes :**
 - Bouton de recherche web grisé
 - Pas de résultats de recherche
-- Erreur "Impossible d'effectuer la recherche"
+- Erreur **"Impossible d'effectuer la recherche"** ou **"La recherche web est désactivée"** (affiché par l'Assistant)
 
 **Solutions :**
 
@@ -137,8 +120,13 @@ Si le problème persiste, [signalez-le à l'équipe](report-issue.md).
    - Évitez les questions trop vagues
 
 3. **Problème temporaire**
-   - Le service de recherche (Brave Search) peut être temporairement indisponible
+   - Le service de recherche peut être temporairement indisponible
+   - **Rafraîchissez la page** pour vérifier l'affichage d'un bandeau d'erreur
    - Réessayez plus tard
+
+4. **Fonctionnalité désactivée par votre administration ?**
+   - Certaines administrations limitent l'accès à la recherche web pour des raisons de sécurité
+   - Contactez votre référent IA pour vérifier la configuration
 
 ---
 
@@ -236,5 +224,7 @@ Si vous ne trouvez pas de solution à votre problème :
 4. **Rejoignez le canal Tchap** dédié : [#assistant-ia](https://tchap.gouv.fr/)
 
 {% hint style="warning" icon="exclamation-triangle" %}
+**Important :** En cas de **vrai message d'erreur technique** (trace, code, ou message anormal), fermez la conversation et réessayez dans une **nouvelle fenêtre**.
+
 En cas de problème urgent ou de suspicion de fuite de données, contactez immédiatement votre référent IA ou l'équipe DINUM via les canaux officiels.
 {% endhint %}

@@ -2,37 +2,40 @@
 
 * [Bienvenue](README.md)
 
-## Pour commencer
+## 🚀 Pour commencer
 
 * [Introduction](getting-started/getting-started.md)
 * [Guide rapide](getting-started/quickstart.md)
 * [Votre premier chat](getting-started/your-first-chatbot.md)
 
-## Concepts de base
+## 📚 Concepts de base
 
 * [Présentation](core-concepts/core-concepts.md)
 * [Espace de travail et assistants](core-concepts/workspaces-and-chatbots.md)
 * [Sécurité et souveraineté](core-concepts/security-and-sovereignty.md)
 
-## Guides pratiques
+## 🎯 Guides pratiques
 
-* [Guides](guides/guides.md)
 * [Gestion des documents](guides/documents.md)
 * [Recherche web](guides/web-search.md)
 * [Sélection des modèles](guides/models.md)
 * [Résumé automatique](guides/summarize.md)
-* [Collections](guides/collections.md)
 * [Accessibilité](guides/accessibility.md)
+* [Analytique et scoring](guides/analytics.md)
 
-## Dépannage
+## 🛠️ Pour aller plus loin
+
+* [Automatisations et API](advanced/automations-and-api.md)
+* [Feuille de route](advanced/feuille-de-route.md)
+
+## 🆘 Dépannage
 
 * [Troubleshooting](troubleshooting/troubleshooting.md)
 * [Questions fréquentes](troubleshooting/faq.md)
 * [Signaler un problème](troubleshooting/report-issue.md)
 
-## Référence
+## 📖 Référence
 
-* [Référence](reference/reference.md)
 * [Configuration](reference/configuration.md)
 * [Glossaire](reference/glossary.md)
 * [Mentions légales](reference/legal.md)

@@ -319,6 +319,6 @@ Vous : "Résume tous les documents de la collection 'Projet Beta'"
 [web-search.md](web-search.md)
 {% endcontent-ref %}
 
-{% content-ref url="collections.md" %}
-[collections.md](collections.md)
+{% content-ref url="//advanced/automations-and-api.md" %}
+[Automatisations et API](//advanced/automations-and-api.md)
 {% endcontent-ref %}

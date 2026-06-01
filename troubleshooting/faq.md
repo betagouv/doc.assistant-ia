@@ -69,7 +69,7 @@ Contexte : [coller le texte ici]
 - **Autres :** TXT, CSV (selon configuration)
 
 **Limites :**
-- Taille maximale : généralement 50 Mo par fichier (variable)
+- Taille maximale : généralement 10 Mo par fichier (variable)
 - Nombre de fichiers : plusieurs peuvent être téléversés simultanément
 
 ### Combien de temps mes conversations sont-elles conservées ?

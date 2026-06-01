@@ -15,7 +15,7 @@ L'Assistant IA est une **interface conversationnelle** basée sur l'intelligence
 - **Consulter le web** pour enrichir vos recherches avec des informations actualisées
 - **Analyser des documents** (PDF, images, fichiers bureautiques) pour en extraire des informations
 - **Retrouver l'historique** de vos conversations pour une continuité dans vos échanges
-- **Organiser votre travail** avec des projets et des collections
+- **Organiser votre travail** avec des projets et des bases documentaires
 
 {% hint style="success" icon="sparkles" %}
 **Nouveau :** L'Assistant IA est désormais **accessible à tous les agents** des administrations de l'État et de leurs organismes de tutelle, sans code d'accès nécessaire.
@@ -177,7 +177,7 @@ Pour analyser un fichier :
 
 **Formats supportés :** PDF, images (JPG, PNG, WEBP), documents bureautiques (DOCX, PPTX, XLSX, MD)
 
-**Taille maximale :** 50 Mo (variable selon la configuration)
+**Taille maximale :** 10 Mo (variable selon la configuration)
 
 ---
 
@@ -267,7 +267,7 @@ Question : Peux-tu m'aider à structurer cette note ?
 ### 5. Organisez votre travail
 
 - Utilisez des **projets** pour regrouper vos conversations par thème
-- Créez des **collections** pour vos documents fréquents
+- Créez des **bases documentaires** pour vos documents fréquents
 - **Archivez** les anciennes conversations
 
 ---
@@ -305,7 +305,7 @@ Maintenant que vous savez utiliser les bases de l'Assistant IA, explorez :
 2. **[Guide rapide](quickstart.md)** - Les fonctionnalités essentielles en 10 minutes
 3. **[Recherche web](../guides/web-search.md)** - Trouver des informations actualisées
 4. **[Gestion des documents](../guides/documents.md)** - Analyser vos fichiers
-5. **[Projets et collections](../guides/collections.md)** - Organiser votre travail
+5. **[Projets et bases documentaires](../advanced/automations-and-api.md#bases-documentaires-et-projets)** - Organiser votre travail
 
 ---
 

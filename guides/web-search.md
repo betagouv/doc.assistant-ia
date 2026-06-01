@@ -78,38 +78,6 @@ L'assistant filtre automatiquement :
 - ❌ **Contenu non pertinent**
 - ❌ **Sources peu fiables**
 
-### Personnalisation de la recherche
-
-Vous pouvez affiner votre recherche avec des paramètres :
-
-| Paramètre | Exemple | Description |
-|-----------|---------|-------------|
-| **Site spécifique** | "site:github.com" | Recherche sur un site particulier |
-| **Période** | "après:2025-01-01" | Résultats après une date |
-| **Type de fichier** | "filetype:pdf" | Fichiers PDF uniquement |
-| **Langue** | "lang:fr" | Résultats en français |
-
-Exemple :
-```
-Vous : "Recherchez site:gouv.fr après:2025-01-01 lang:fr les dernières lois sur l'IA"
-```
-
-## Intégration Brave Search
-
-Votre assistant utilise **Brave Search** pour :
-
-- 🛡️ **Respect de la vie privée** : Pas de tracking des utilisateurs
-- 🚀 **Rapidité** : Résultats instantanés
-- 🌍 **Couverture mondiale** : Accès à des sources internationales
-- 🔍 **Index complet** : Moteur de recherche indépendant
-
-### Pourquoi Brave ?
-
-- **Ne vend pas vos données** à des annonceurs
-- **Pas de bulle de filtres** : résultats non personnalisés
-- **Transparence** : politique claire sur la confidentialité
-- **Indépendance** : pas dépendant des géants du web
-
 ## Bonnes pratiques
 
 ### Formuler de bonnes requêtes
@@ -138,7 +106,7 @@ Votre assistant utilise **Brave Search** pour :
 
 ### Ce que votre assistant NE fait PAS :
 
-- ❌ **Ne stocke pas** votre historique de recherche (sauf si configuré)
+- ❌ **Ne stocke pas** votre historique de recherche 
 - ❌ **Ne partage pas** vos requêtes avec des tiers
 - ❌ **Ne suit pas** votre activité sur le web
 - ❌ **N'affiche pas** de publicités ciblées
@@ -169,7 +137,6 @@ Votre assistant utilise **Brave Search** pour :
 - La recherche web peut avoir une légère latence
 - Essayez d'ajouter "après:[date]" à votre requête
 - Vérifiez directement sur les sites sources
-- La fonction de résumé peut parfois omettre des détails récents
 
 </details>
 
@@ -178,19 +145,15 @@ Votre assistant utilise **Brave Search** pour :
 
 - Soyez plus spécifique dans votre requête
 - Ajoutez plus de contexte à votre question
-- Utilisez des filtres (site:, après:, etc.)
 - Essayez de poser la question différemment
-- L'assistant apprend de vos retours : donnez un 👎 si les résultats ne sont pas bons
 
 </details>
 
 <details>
 <summary>Je ne vois pas les liens vers les sources</summary>
 
-- Les liens sont généralement affichés à la fin de chaque point
-- Cliquez sur "Voir la source" ou le titre du point
-- Certains résultats peuvent ne pas avoir de liens directs
-- Vérifiez que votre interface affiche correctement les liens
+- Les liens sont affichés à la fin de chaque message
+- Cliquez sur "Voir la source" 
 
 </details>
 
@@ -235,25 +198,7 @@ Comparaison des flagships 2025 :
 Sources : [GSMArena](https://gsmarena.com), [TechRadar](https://techradar.com)
 
 Souhaitez-vous plus de détails sur un modèle en particulier ?
-```
 
-### Scénario 3 : Tutoriel ou guide
-
-**Vous** : "Comment configurer un VPN sur Windows 11 ?"
-
-**Assistant** :
-```
-Voici les étapes pour configurer un VPN sur Windows 11 :
-
-1. **Ouvrir les paramètres** : Appuyez sur Win + I > Réseau et Internet > VPN
-2. **Ajouter un VPN** : Cliquez sur "Ajouter un VPN"
-3. **Configurer** : Sélectionnez le fournisseur, entrez le nom, le serveur, etc.
-
-Pour un guide détaillé, consultez :
-- [Guide officiel Microsoft](https://support.microsoft.com)
-- [Tutoriel NordVPN](https://nordvpn.com)
-
-Souhaitez-vous que je résume un de ces guides ?
 ```
 
 ## Ressources connexes

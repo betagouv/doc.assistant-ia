@@ -11,6 +11,8 @@ Les projets sont le conteneur principal qui organise votre travail sur la platef
 
 Votre compte contient des projets. Chaque projet contient des conversations et des documents.
 
+Vous pouvez également créer des conversations indépendantes (c'est a dire reliée à aucun projet).
+
 ```mermaid
 graph TD
   A[Compte] --> P1[Projet: Support Client]
@@ -19,6 +21,11 @@ graph TD
   P1 --> Conv1[Conversations]
   P1 --> Docs1[Documents]
 ```
+
+
+## Recherche
+
+La recherche permet de chercherune conversation par son titre. L'affichage des conversations dans la barre de recherche inclus le titre du projet dans lequel elle se trouve pour faciliter l'identification de celles-cis.
 
 ## Projets
 

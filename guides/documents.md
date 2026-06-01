@@ -1,224 +1,128 @@
 ---
 description: >-
-  Glisser-déposer des fichiers, collection automatique, et gestion avancée des documents
-  avec indexation RAG améliorée.
+  Comment l'assistant analyse et utilise vos documents : contexte complet pour les petits fichiers,
+  indexation RAG pour les longs documents, et ce que l'IA "voit" vraiment.
 icon: file
 ---
 
-# Gestion des documents
+# Comment l'assistant traite vos documents
 
-Votre assistant IA prend en charge le glisser-déposer de fichiers directement dans l'interface de chat, avec collection automatique et indexation avancée pour une recherche optimale.
+L'assistant ne "lit" pas vos documents comme vous. Il les transforme en texte, puis les analyse selon deux modes distincts selon leur taille. Voici ce qui se passe concrètement.
 
-{% hint style="success" %}
-**Glisser-déposer activé** : Vous pouvez déposer des fichiers n'importe où sur la page pour les ajouter à votre conversation.
-{% endhint %}
+---
 
-## Comment ajouter des documents
+## 📄 Documents courts : traitement en contexte complet
 
-### Méthode 1 : Glisser-déposer
+**Si votre document fait moins d'une dizaine de pages de texte**, l'assistant l'intègre **entièrement** dans le contexte de la conversation.
 
-{% stepper %}
-{% step %}
-#### Préparer votre fichier
+Cela signifie qu'il a accès à l'intégralité du contenu simultanément. Il peut alors :
 
-Assurez-vous que votre fichier est dans un format supporté :
-- 📄 **Documents** : PDF, Word (.docx), Markdown (.md), Texte (.txt)
-- 📊 **Feuilles de calcul** : Excel (.xlsx), CSV
-- 🖼️ **Images** : PNG, JPG, WebP (pour analyse visuelle si activé)
-- 📧 **Emails** : EML, MSG
-
-{% hint style="warning" %}
-**Types de fichiers interdits** : Certains types de fichiers sont bloqués pour des raisons de sécurité (exécutables, scripts, etc.).
-{% endhint %}
-{% endstep %}
-
-{% step %}
-#### Déposer le fichier
-
-1. Ouvrez votre conversation avec l'assistant
-2. Localisez le fichier sur votre ordinateur
-3. **Glissez** le fichier depuis votre explorateur de fichiers
-4. **Déposez** le n'importe où sur la page de chat
-
-Le fichier sera automatiquement uploadé et processe.
-{% endstep %}
-
-{% step %}
-#### Attendre le traitement
-
-L'assistant va :
-1. ✅ Vérifier le type de fichier
-2. ✅ Extraire le texte (pour les PDFs, Word, etc.)
-3. ✅ Indexer le contenu pour la recherche
-4. ✅ Confirmer l'ajout avec un message
+- **Analyser les liens** entre toutes les sections
+- **Repérer les contradictions** ou répétitions
+- **Extraire des informations** précise sans limite de zone
+- **Répondre à des questions** portant sur n'importe quelle partie du document
 
 {% hint style="info" %}
-Les fichiers volumineux peuvent prendre quelques secondes à traiter. Un indicateur de progression s'affichera.
-{% endhint %}
-{% endstep %}
-{% endstepper %}
-
-### Méthode 2 : Bouton d'upload
-
-1. Cliquez sur l'icône **📎** (trombone) dans le champ de message
-2. Sélectionnez le fichier depuis votre ordinateur
-3. Cliquez sur **Ouvrir** pour uploader
-
-### Méthode 3 : Collection automatique
-
-Si l'option est activée, les documents que vous mentionnez ou référencez dans vos questions peuvent être **automatiquement collectés** par l'assistant.
-
-Exemple :
-```
-Vous : "Pouvez-vous me dire ce qui est écrit dans le rapport_2025.pdf ?"
-Assistant : "Je vais chercher le document 'rapport_2025.pdf' dans les documents disponibles..."
-```
-
-## Gestion des collections
-
-Organisez vos documents en collections pour une meilleure organisation :
-
-### Créer une nouvelle collection
-
-1. Cliquez sur **Collections** dans la barre latérale
-2. Cliquez sur **+ Nouvelle collection**
-3. Donnez un nom à votre collection (ex: "Projet Alpha", "Documentation RH")
-4. Ajoutez une description (optionnel)
-5. Cliquez sur **Créer**
-
-### Ajouter des documents à une collection
-
-1. Ouvrez une collection existante
-2. Glissez-déposez des fichiers dans la collection
-3. Ou utilisez le bouton **+ Ajouter des documents**
-
-### Rechercher dans une collection
-
-Pour limiter la recherche à une collection spécifique :
-
-```
-Vous : "Recherchez dans la collection 'Projet Alpha' : quelle est la date de livraison ?"
-```
-
-## Fonctionnalités avancées
-
-### Indexation RAG améliorée
-
-Votre assistant utilise la **Recherche Augmentée par Génération (RAG)** pour :
-
-- 🔍 **Chunking intelligent** : Diviser les grands documents en sections gérables
-- 🧠 **Embeddings** : Créer des représentations vectorielles pour une recherche sémantique
-- 🎯 **Reranking** : Prioriser les résultats les plus pertinents
-- 🔄 **Mise à jour automatique** : Re-indexer les documents modifiés
-
-### Traitement des documents
-
-| Fonctionnalité | Description |
-|--------------|-------------|
-| **Extraction de texte** | Récupère le texte des PDFs, Word, etc. |
-| **Analyse de structure** | Comprend les titres, sections, listes |
-| **Détection de langue** | Identifie automatiquement la langue du document |
-| **Nettoyage** | Supprime le formatage inutile |
-| **Indexation** | Ajoute au système de recherche |
-
-### Partage de documents
-
-Partagez des documents avec d'autres utilisateurs ou équipes :
-
-1. Ouvrez le document dans votre collection
-2. Cliquez sur **Partager**
-3. Sélectionnez les utilisateurs ou équipes
-4. Choisissez le niveau de permission (Lecture seule, Lecture/Écriture)
-5. Cliquez sur **Envoyer l'invitation**
-
-{% hint style="warning" %}
-Le partage est soumis aux politiques de sécurité de votre organisation.
+**Exemple** : Un contrat de 8 pages sera entièrement "chargé" dans la mémoire de la conversation. Vous pouvez demander : _"Quels sont les articles concernant les pénalités de retard ?"_ et l'assistant parcourra l'ensemble pour vous répondre.
 {% endhint %}
 
-## Bonnes pratiques
+---
 
-### Nommage des fichiers
+## 📚 Documents longs : indexation et recherche RAG
 
-- ✅ Utilisez des noms **clairs et descriptifs**
-- ✅ Incluez des **dates ou versions** si pertinent
-- ✅ Évitez les **caractères spéciaux** (#, %, &, etc.)
-- ❌ Évitez les noms génériques comme "document.pdf" ou "fichier.txt"
+**Au-delà d'une dizaine de pages**, ou dans le cadre d'un **projet**, vos documents sont **découpés en sections** (on parle de _chunks_) et stockés dans une base de recherche spécialisée.
 
-Exemples :
-- ✅ `rapport_ventes_Q1_2025.pdf`
-- ✅ `guide_utilisateur_v2.1.docx`
-- ❌ `fichier.pdf`
+L'assistant dispose alors de **deux outils principaux** pour y accéder :
 
-### Organisation des documents
+### 🔍 1. Le résumé
+Un résumé automatique du document est généré et stocké. Cela permet à l'assistant de comprendre **la thématique globale** avant même de plonger dans les détails.
 
-- **Par projet** : Un dossier par projet
-- **Par type** : Documents techniques, commerciaux, RH
-- **Par date** : Archives par mois/année
-- **Par équipe** : Documents spécifiques à une équipe
+### 🎯 2. La recherche RAG (Recherche Augmentée par Génération)
+Lorsque vous posez une question, l'assistant :
 
-### Sécurité des documents
+1. **Interprète votre demande**
+2. **Recherche dans la base** les paragraphes les plus proches sémantiquement
+3. **Sélectionne les extraits pertinents**
+4. **Génère une réponse** basée sur ces extraits
 
-- ❌ **Ne téléchargez pas** de documents confidentiels ou sensibles
-- ❌ **Ne partagez pas** de documents contenant des informations personnelles
-- ✅ **Vérifiez** les politiques de votre entreprise avant de télécharger
-- ✅ **Utilisez** les collections privées pour les documents sensibles
+{% hint style="success" %}
+**Concrètement** : Si vous demandez _"Quelles sont les spécifications techniques du module X ?"_, l'assistant ne lira pas les 200 pages du manuel. Il identifiera les 3 paragraphes qui parlent de ce module et s'y référera pour répondre.
+{% endhint %}
 
-## Résolution des problèmes
+---
+
+## 👁️ Ce que l'assistant "voit" vraiment
+
+**Votre document est converti en texte brut.** L'assistant **ne voit pas** :
+
+- ❌ **La mise en page** (colonnes, encadrés, position des éléments)
+- ❌ **Les numéros de page** (les références type _"voir page 4"_ sont inutiles)
+- ❌ **Les schémas, images ou graphiques** (sauf si leur légende ou texte alternatif est présent)
+- ❌ **Les annotations manuscrites** ou surlignages
+- ❌ **Les informations de format** (police, couleur, taille)
+
+**Il voit uniquement** :
+
+- ✅ **Le texte** extrait du document
+- ✅ **La structure hiérarchique** (titres, sous-titres, listes, tableaux)
+- ✅ **Les mots et leur agencement** dans les phrases et paragraphes
+
+### ⚠️ Conséquence importante
+
+Pour que l'assistant **trouve l'information que vous cherchez**, celle-ci doit être **clairement identifiable par son contenu textuel**.
+
+| ❌ À éviter | ✅ À privilégier |
+|------------|------------------|
+| _"Le tableau en haut de la page 12"_ | _"Le tableau comparant les performances trimestrielles"_ |
+| _"Le paragraphe sous le schéma"_ | _"Le paragraphe expliquant le processus de validation"_ |
+| _"La note en bas de page"_ | _"La note précisant les exceptions à la règle"_ |
+
+**Pourquoi ?** Parce que l'assistant recherche des **mots-clés** et des **concepts**, pas des positions visuelles.
+
+---
+
+## 💡 Bonnes pratiques pour optimiser le traitement
+
+### Pour les documents courts
+- **Structurez avec des titres clairs** : L'assistant s'appuie sur la hiérarchie du texte
+- **Soyez explicite** dans vos noms de sections
+
+### Pour les documents longs
+- **Utilisez des mots-clés précis** dans vos questions : _"Dans le chapitre sur la conformité RGPD, quelles sont les obligations ?"_
+- **Évitez les références spatiales** : Préférez le contenu à la position
+- **Demandez des résumés ciblés** : _"Résume-moi la section sur les procédures d'urgence"_
+
+### Dans tous les cas
+
+- **Privilégiez les formats texte** (PDF avec texte, DOCX, TXT) aux images ou scans
+- **Testez avec une question simple** pour confirmer que le document est bien indexé
+
+---
+
+## ❓ Questions fréquentes
 
 <details>
-<summary>Le fichier ne s'uploade pas</summary>
+<summary>Pourquoi l'assistant ne trouve pas une information que je vois dans mon document ?</summary>
 
-- Vérifiez que le type de fichier est supporté
-- Vérifiez la taille du fichier (limite : 50Mo par défaut)
-- Essayez avec un autre navigateur
-- Vérifiez votre connexion internet
-- Contactez le support si le problème persiste
+- L'information est peut-être dans une **image ou un schéma** sans texte alternatif
+- Le document a peut-être été **mal extrait** (PDF scanné, format corrompu)
+- Votre question utilise des **références visuelles** ("à droite", "en bas") incompréhensibles pour l'IA
+- L'information est dans un **tableau complexe** dont la structure n'a pas été préservée
 
+**Solution** : Reformulez votre question avec des mots-clés du contenu, ou vérifiez le format du document.
 </details>
 
 <details>
-<summary>Le document n'apparaît pas dans la recherche</summary>
+<summary>Comment savoir si mon document est en full context ou en RAG ?</summary>
 
-- Attendez quelques minutes pour que l'indexation se termine
-- Vérifiez que le document a été uploadé avec succès
-- Essayez de re-uploader le document
-- Vérifiez que vous recherchez dans la bonne collection
+- **Full context** : Document de moins de 10 pages, discuté dans une conversation unique
+- **RAG** : Document de plus de 10 pages, ou ajouté à une base documentaire/projet
 
+Vous pouvez toujours demander à l'assistant : _"Comment as-tu accès à ce document ?"_
 </details>
 
 <details>
-<summary>L'extraction de texte ne fonctionne pas</summary>
+<summary>Mon document fait 9 pages mais l'assistant semble ne pas tout voir. Pourquoi ?</summary>
 
-- Le document peut être protégé par un mot de passe
-- Le document peut être corrompu
-- Le format peut ne pas être supporté
-- Essayez de convertir le document en PDF ou TXT
-
+La limite de "dizaine de pages" concerne le **nombre de pages de texte pur**. Si votre document contient beaucoup d'images, de tableaux ou de mise en forme complexe, la quantité de texte effectif peut être inférieure à ce que vous attendez, ce qui réduit le contexte disponible.
 </details>
-
-<details>
-<summary>Je reçois une erreur "Type de fichier interdit"</summary>
-
-Certains types de fichiers sont bloqués pour des raisons de sécurité :
-- Fichiers exécutables (.exe, .bat, .sh, etc.)
-- Scripts (.js, .py, .php, etc.)
-- Archives (.zip, .rar, etc.)
-- Fichiers système
-
-Utilisez des formats de document standard (PDF, Word, TXT, etc.).
-
-</details>
-
-## Ressources connexes
-
-{% content-ref url="collections.md" %}
-[collections.md](collections.md)
-{% endcontent-ref %}
-
-{% content-ref url="summarize.md" %}
-[summarize.md](summarize.md)
-{% endcontent-ref %}
-
-{% content-ref url="web-search.md" %}
-[web-search.md](web-search.md)
-{% endcontent-ref %}

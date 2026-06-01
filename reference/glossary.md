@@ -437,7 +437,7 @@ Petite fenêtre de discussion intégrée dans un site web qui permet un accès r
 <details>
 <summary><strong>Espace de travail</strong></summary>
 
-Groupe d'assistants, de collections et d'utilisateurs. Votre entreprise peut avoir plusieurs espaces de travail pour différents départements ou projets.
+Groupe d'assistants, de bases documentaires et d'utilisateurs. Votre entreprise peut avoir plusieurs espaces de travail pour différents départements ou projets.
 
 </details>
 
