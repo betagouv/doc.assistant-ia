@@ -115,7 +115,7 @@ Respect des exigences pour le traitement des informations classifiées :
 
 ### Acceptation
 
-L'utilisation de l'Assistant IA implique l'acceptation pleine et entière des présentes mentions légales et des [modalités d'usage](https://docs.numerique.gouv.fr/docs/9f4f9d40-179a-4095-90ce-e182e1b938b0/) (si disponibles).
+L'utilisation de l'Assistant IA implique l'acceptation pleine et entière des présentes mentions légales.
 
 ### Modifications
 
