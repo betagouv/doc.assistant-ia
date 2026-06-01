@@ -28,6 +28,7 @@
 
 * [Mentions légales](documentation-legale/legal.md)
 * [Protection des données](documentation-legale/data-protection.md)
+* [Modalités d'utilisation](documentation-legale/modalites-dutilisation.md)
 
 ## Pour aller plus loin
 
