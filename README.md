@@ -1,58 +1,117 @@
 ---
-description: >-
-  Documentation officielle de l'Assistant IA - Outil conversationnel souverain
-  pour les agents des administrations de l'État et de leurs organismes de
-  tutelle
-icon: hand-wave
+ddescription: >-
+  Introduction à l'Assistant IA - Découvrez comment démarrer avec l'outil
+  conversationnel souverain
+icon: door-open
 ---
 
-# Bienvenue
+# Introduction
 
-L'**Assistant IA** est l'outil conversationnel souverain de [**LaSuite**](https://lasuite.numerique.gouv.fr/) conçu pour accompagner **tous les agents des administrations de l'État et de leurs organismes de tutelle** dans leurs recherches d'information et leurs échanges quotidiens.
+Bienvenue sur l'Assistant IA, l'outil conversationnel souverain conçu pour **tous les agents des administrations de l'État et de leurs organismes de tutelle**. Ce guide vous explique comment démarrer et tirer le meilleur parti de cette plateforme.
 
-{% hint style="success" icon="shield-check" %}
-**Souveraineté et sécurité** : Hébergé en France sur une infrastructure [SecNumCloud](https://cyber.gouv.fr/secnumcloud-pour-les-fournisseurs-de-services-cloud), open-source, avec garantie que les données ne sortent pas du territoire national.
+## Qu'est-ce que l'Assistant IA ?
+
+L'Assistant IA est une **interface conversationnelle** basée sur l'intelligence artificielle générative qui vous permet de :
+
+* **Poser des questions** et obtenir des réponses immédiates
+* **Consulter le web** pour enrichir vos recherches avec des informations actualisées
+* **Analyser des documents** (PDF, images, fichiers bureautiques) pour en extraire des informations
+* **Retrouver l'historique** de vos conversations pour une continuité dans vos échanges
+* **Organiser votre travail** avec des projets et des bases documentaires
+
+{% hint style="success" icon="sparkles" %}
+**Nouveau :** L'Assistant IA est désormais **accessible à tous les agents** des administrations de l'État et de leurs organismes de tutelle, sans code d'accès nécessaire.
 {% endhint %}
 
-## Accès généralisé
+## Prérequis
 
-L'Assistant IA est désormais **accessible à tous les agents** des administrations de l'État et de leurs organismes de tutelle. Il suffit de :
+Pour utiliser l'Assistant IA, vous avez besoin de :
 
-1. Se rendre sur [assistant.numerique.gouv.fr](https://assistant.numerique.gouv.fr)
-2. Se connecter via **ProConnect**
+✅ **Un compte ProConnect** valide (votre compte professionnel)&#x20;
 
-_A compter de la mi-juin 2026, aucun code d'accès n'est nécessaire._
+✅ **Un navigateur web moderne** (Chrome, Firefox, Edge, Safari recommandés)&#x20;
 
-<a href="guides-pratiques/recherche-web.md" class="button secondary" data-icon="globe">Recherche web</a><a href="guides-pratiques/resume.md" class="button secondary" data-icon="file-lines">Résumer un document</a><a href="concepts-de-base/securite-et-souverainete.md" class="button secondary" data-icon="shield">Données autorisées</a>
+✅ **Une connexion internet** stable&#x20;
+
+✅ **Appartenir à une administration** de l'État ou un organisme sous sa tutelle
 
 ***
 
-## Fonctionnalités clés
+## Première connexion
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-comments" style="color:$primary;">:comments:</i></h4></td><td><h4>Conversation intelligente</h4></td><td>Dialoguez naturellement avec l'IA, historique complet de vos échanges, continuation automatique du contexte.</td><td><a href="getting-started/your-first-chatbot.md">your-first-chatbot.md</a></td></tr><tr><td><h4><i class="fa-globe" style="color:$primary;">:globe:</i></h4></td><td><h4>Recherche web</h4></td><td>Recherche en temps réel avec Brave Search, résumé automatique des résultats, informations actualisées.</td><td><a href="guides-pratiques/recherche-web.md">recherche-web.md</a></td></tr><tr><td><h4><i class="fa-file-lines" style="color:$primary;">:file-lines:</i></h4></td><td><h4>Gestion de documents</h4></td><td>Glisser-déposer des fichiers (PDF, images, documents bureautiques), analyse et interrogation ciblées.</td><td><a href="guides/documents.md">documents.md</a></td></tr><tr><td><h4><i class="fa-folder" style="color:$primary;">:folder:</i></h4></td><td><h4>Projets et bases documentaires</h4></td><td>Organisez vos conversations par projets avec des instructions communes, créez des bases documentaires.</td><td><a href="pour-aller-plus-loin/automatisations-et-api.md#bases-documentaires-et-projets">#bases-documentaires-et-projets</a></td></tr><tr><td><h4><i class="fa-shield" style="color:$primary;">:shield:</i></h4></td><td><h4>Sécurité renforcée</h4></td><td>Infrastructure SecNumCloud, hébergement souverain, respect des normes de confidentialité de l'État.</td><td><a href="concepts-de-base/securite-et-souverainete.md">securite-et-souverainete.md</a></td></tr></tbody></table>
+### Étape 1 : Accéder à la plateforme
 
-## Par où commencer
+1. Ouvrez votre navigateur web
+2. Rendez-vous sur [**assistant.numerique.gouv.fr**](https://assistant.numerique.gouv.fr)
+3. Vérifiez que l'URL est correcte (https://assistant.numerique.gouv.fr)
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-rocket-launch" style="color:$primary;">:rocket-launch:</i></h4></td><td><h4>Démarrage rapide</h4></td><td>Découvrez comment utiliser l'Assistant IA en quelques minutes seulement.</td><td><a href="pour-commencer/introduction.md">introduction.md</a></td></tr><tr><td><h4><i class="fa-book" style="color:$primary;">:book:</i></h4></td><td><h4>Concepts fondamentaux</h4></td><td>Comprenez le fonctionnement, la sécurité et les capacités de l'Assistant.</td><td><a href="concepts-de-base/presentation.md">presentation.md</a></td></tr><tr><td><h4><i class="fa-graduation-cap" style="color:$primary;">:graduation-cap:</i></h4></td><td><h4>Guides pratiques</h4></td><td>Guides détaillés pour maîtriser chaque fonctionnalité avancée.</td><td><a href="guides/guides.md">guides.md</a></td></tr><tr><td><h4><i class="fa-wrench" style="color:$primary;">:wrench:</i></h4></td><td><h4>Dépannage</h4></td><td>Résolvez les problèmes courants et trouvez des réponses à vos questions.</td><td><a href="depannage/erreurs.md">erreurs.md</a></td></tr></tbody></table>
-
-## Tâches populaires
-
-<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-type="content-ref"></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td><h4>Premiers pas</h4></td><td><a href="pour-commencer/guide-rapide.md">guide-rapide.md</a></td><td><a href="getting-started/your-first-chatbot.md">your-first-chatbot.md</a></td><td><a href="guides/documents.md">documents.md</a></td></tr><tr><td><h4>Fonctionnalités avancées</h4></td><td><a href="guides-pratiques/recherche-web.md">recherche-web.md</a></td><td><a href="guides/models.md">models.md</a></td><td><a href="guides-pratiques/resume.md">resume.md</a></td></tr><tr><td><h4>Outils et organisation</h4></td><td><a href="pour-aller-plus-loin/automatisations-et-api.md#bases-documentaires-et-projets">#bases-documentaires-et-projets</a></td><td><a href="guides/accessibility.md">accessibility.md</a></td><td><a href="troubleshooting/faq.md">faq.md</a></td></tr></tbody></table>
-
-## Besoin d'aide ?
-
-{% hint style="info" %}
-Consultez notre section [**Dépannage**](depannage/erreurs.md) pour résoudre les problèmes courants, ou [**signalez un problème**](troubleshooting/report-issue.md) directement à l'équipe.
+{% hint style="warning" %}
+**Sécurité :** Vérifiez toujours l'URL avant de vous connecter. Ne vous connectez **jamais** sur un site qui ne porte pas le domaine **numerique.gouv.fr**.
 {% endhint %}
 
-## À propos
+### Étape 2 : Se connecter avec ProConnect
 
-L'Assistant IA est développé par les équipes de **LaSuite** et d'**IA dans l'État**, au sein de la **Direction interministérielle du numérique (DINUM)**.
+1. Cliquez sur le bouton **"Se connecter avec ProConnect"**
+2. Sélectionnez votre administration dans la liste
+3. Entrez vos **identifiants professionnels** (ceux que vous utilisez pour accéder aux autres services de l'État)
+4. Validez avec votre mot de passe
 
-Pour plus d'informations :
+**Si vous avez oublié votre mot de passe :**
 
-* [Mentions légales](documentation-legale/legal.md)
-* [Protection des données](documentation-legale/data-protection.md)
-* [Contact](documentation-legale/legal.md#contact)
+* Utilisez le lien "Mot de passe oublié ?" sur la page ProConnect
+* Contactez le support informatique de votre administration
 
-N'hésitez pas à nous rejoindre sur [**Tchap**](https://tchap.gouv.fr/) pour échanger avec la communauté.
+### Étape 3 : Accéder à l'interface
+
+Une fois connecté, vous serez redirigé vers :
+
+* **L'interface principale** si c'est votre première connexion
+* **Votre dernière conversation** si vous avez déjà utilisé le service
+
+**Félicitations !** Vous êtes maintenant connecté à l'Assistant IA. 🎉
+
+## Formation et accompagnement
+
+### Ressources disponibles
+
+* **Ce guide** : Documentation complète sur GitBook
+* [**FAQ**](troubleshooting/faq.md) : Réponses aux questions fréquentes
+* [**Troubleshooting**](depannage/erreurs.md) : Résoudre les problèmes
+* **Formulaire de retour** : [https://formulaire.beta.numerique.gouv.fr/r/assistant](https://formulaire.beta.numerique.gouv.fr/r/assistant)
+
+### Formations recommandées
+
+**Découvrir les IA génératives** (1h) - Campus Numérique & Inria Academy
+
+* [S'inscrire au cours](https://www.campus.numerique.gouv.fr/catalogue/d%C3%A9couvrir-les-ia-g%C3%A9n%C3%A9ratives/)
+* **Objectifs :** Comprendre l'IA générative, identifier des usages, connaître les limites
+
+### Communauté
+
+Rejoignez la communauté des utilisateurs sur **Tchap** :
+
+* [Canal Assistant IA](https://tchap.gouv.fr/#/room/!eAHyPLdVHMxNhKAbaC:agent.dinum.tchap.gouv.fr)
+* Échangez avec d'autres agents
+* Posez vos questions
+* Partagez vos bonnes pratiques
+
+***
+
+## Prochaines étapes
+
+Maintenant que vous savez utiliser les bases de l'Assistant IA, explorez :
+
+1. [**Guide rapide**](pour-commencer/guide-rapide.md) - Les fonctionnalités essentielles en 10 minutes
+2. [**Recherche web**](guides-pratiques/recherche-web.md) - Trouver des informations actualisées
+3. [**Gestion des documents**](guides/documents.md) - Analyser vos fichiers
+4. [**Projets et bases documentaires**](pour-aller-plus-loin/automatisations-et-api.md#bases-documentaires-et-projets) - Organiser votre travail
+
+***
+
+{% hint style="success" icon="rocket" %}
+**Vous êtes prêt !** L'Assistant IA est conçu pour être **intuitif et accessible**. N'hésitez pas à explorer, tester, et surtout **faire des retours** pour nous aider à améliorer le service pour tous les agents publics.
+{% endhint %}
+
+{% hint style="info" %}
+**Besoin d'aide ?** Consultez notre section [Troubleshooting](depannage/erreurs.md) ou [signalez un problème](troubleshooting/report-issue.md).
+{% endhint %}

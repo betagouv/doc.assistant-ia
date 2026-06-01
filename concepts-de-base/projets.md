@@ -9,7 +9,7 @@ Les projets sont le conteneur principal qui organise votre travail sur la platef
 
 ## Que sont les projets
 
-Un projet est un [système prompt](../reference/glossary.md#système-prompt) spécialisé combiné à des fichiers. Chaque projet permet de créer autant de conversations que souhaité, avec des interactions qui suivent les instructions spécialisées du projet et peuvent rechercher dans ses documents.
+Un projet est un [système prompt](/broken/pages/XxpaSwv0mal4wfmEdfPm#système-prompt) spécialisé combiné à des fichiers. Chaque projet permet de créer autant de conversations que souhaité, avec des interactions qui suivent les instructions spécialisées du projet et peuvent rechercher dans ses documents.
 
 {% hint style="info" %}
 Pour l'instant, les projets ne construisent pas d'historique commun. Pour faire évoluer le comportement de l'Assistant au sein d'un projet, il convient donc de modifier ses instructions et de rajouter des documents.
