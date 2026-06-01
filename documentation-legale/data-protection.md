@@ -381,7 +381,7 @@ Si vous pensez que vos droits ne sont pas respectés ou que vos données sont ma
 ## Ressources supplémentaires
 
 - **[Mentions légales](legal.md)** - Cadre juridique complet
-- **[Sécurité et souveraineté](../core-concepts/security-and-sovereignty.md)** - Mesures techniques
+- **[Sécurité et souveraineté](../concepts-de-base/securite-et-souverainete.md)** - Mesures techniques
 - **[CNIL](https://www.cnil.fr/)** - Autorité de protection des données française
 - **[RGPD](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32016R0679)** - Texte officiel du règlement
 - **[Modèles de courrier CNIL](https://www.cnil.fr/fr/modeles/courrier)** - Pour exercer vos droits

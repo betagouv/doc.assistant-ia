@@ -11,7 +11,8 @@
 
 * [Présentation](concepts-de-base/presentation.md)
 * [Projets dans l'Assistant](concepts-de-base/projets.md)
-* [Sécurité et souveraineté](core-concepts/security-and-sovereignty.md)
+* [Capacités et limites](concepts-de-base/capacites-et-limites.md)
+* [Sécurité et souveraineté](concepts-de-base/securite-et-souverainete.md)
 
 ## 🎯 Guides pratiques
 
@@ -29,7 +30,13 @@
 * [Questions fréquentes](troubleshooting/faq.md)
 * [Signaler un problème](troubleshooting/report-issue.md)
 
-## 📖 Documentation légale
+## 📖 Référence
+
+* [Feuille de route](reference/feuille-de-route.md)
+* [Référence](reference/reference.md)
+* [Glossaire](reference/glossary.md)
+
+## 📜 Documentation légale
 
 * [Mentions légales](documentation-legale/legal.md)
 * [Protection des données](documentation-legale/data-protection.md)

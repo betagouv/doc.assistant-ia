@@ -35,7 +35,7 @@ L'affichage des conversations dans la barre de recherche inclus le titre du proj
 
 ## Projets
 
-Un projet est un [système prompt](../glossary.md#syst%C3%A8me-prompt) spécialisé combiné à des fichiers. Chaque projet permet de créer autant de conversations que souhaité, avec des interactions qui suivent les instructions spécialisées du projet et peuvent rechercher dans ses documents.
+Un projet est un [système prompt](../reference/glossary.md#système-prompt) spécialisé combiné à des fichiers. Chaque projet permet de créer autant de conversations que souhaité, avec des interactions qui suivent les instructions spécialisées du projet et peuvent rechercher dans ses documents.
 
 {% hint style="info" %}
 Pour l'instant, les projets ne construisent pas d'historique commun. Pour faire évoluer le comportement de l'Assistant au sein d'un projet, il convient donc de modifier ses instructions et de rajouter des documents.&#x20;
@@ -44,11 +44,3 @@ Pour l'instant, les projets ne construisent pas d'historique commun. Pour faire 
 Les projets sont isolés les uns des autres. Les documents, l'historique des conversations et les configurations ne se partagent pas entre les projets.
 
 ## Ressources connexes
-
-{% content-ref url="../core-concepts/permissions.md" %}
-[permissions.md](../core-concepts/permissions.md)
-{% endcontent-ref %}
-
-{% content-ref url="/broken/pages/65332f63d0b6cedd6ac718136ba8d89ec6cc1a4d" %}
-[Broken link](/broken/pages/65332f63d0b6cedd6ac718136ba8d89ec6cc1a4d)
-{% endcontent-ref %}

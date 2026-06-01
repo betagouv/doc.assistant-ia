@@ -242,7 +242,7 @@ Nous nous engageons à rendre le service accessible conformément à l'article 4
 * Tests de sécurité réguliers
 * Audits externes
 
-Pour plus de détails : [Sécurité et souveraineté](../core-concepts/security-and-sovereignty.md)
+Pour plus de détails : [Sécurité et souveraineté](../concepts-de-base/securite-et-souverainete.md)
 
 ***
 

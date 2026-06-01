@@ -38,4 +38,4 @@ Quand l'assistant vous propose une solution impliquant du code, il vous guide **
 
 À terme, l'assistant pourra **exécuter du code dans un environnement sécurisé et isolé** pour réaliser des analyses statistiques, générer des documents, ou effectuer des traitements de données. Ces fonctionnalités seront activées progressivement selon des protocoles de sécurité stricts.
 
-Consultez la [feuille de route](../roadmap.md) pour connaître les dates prévisionnelles de ces évolutions.
+Consultez la [feuille de route](../reference/feuille-de-route.md) pour connaître les dates prévisionnelles de ces évolutions.

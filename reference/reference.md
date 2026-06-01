@@ -41,7 +41,7 @@ Détails sur les mesures de sécurité et l'infrastructure souveraine :
 - **Conformité** : RGPD, Loi SREN, normes ANSSI
 - **Bonnes pratiques** : Recommandations pour les utilisateurs et administrateurs
 
-**[Accéder à la page sécurité](../core-concepts/security-and-sovereignty.md)**
+**[Accéder à la page sécurité](../concepts-de-base/securite-et-souverainete.md)**
 
 ---
 
