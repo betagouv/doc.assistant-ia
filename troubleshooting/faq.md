@@ -96,7 +96,6 @@ Vos conversations sont conservées **tant que votre compte est actif**. Vous pou
 **Oui, plusieurs niveaux de protection :**
 
 * **Hébergement souverain** : Infrastructure SecNumCloud en France
-* **Chiffrement** : Toutes les communications sont chiffrées
 * **Isolement** : Vos données sont strictement séparées de celles des autres utilisateurs
 * **Accès restreint** : Seuls vous et les administrateurs autorisés pouvez accéder à vos conversations
 
@@ -105,7 +104,7 @@ Vos conversations sont conservées **tant que votre compte est actif**. Vous pou
 **Par défaut :**
 
 * **Vous seul** avez accès à vos conversations
-* Les **administrateurs techniques** de la DINUM peuvent accéder aux données **uniquement** si vous avez activé l'option "Autoriser l'analyse de conversation" dans vos paramètres
+* Les **administrateurs techniques** de la DINUM peuvent accéder aux données&#x20;
 
 **En cas d'analyse activée :**
 
@@ -127,15 +126,13 @@ Vos conversations sont conservées **tant que votre compte est actif**. Vous pou
 
 **À NE PAS faire :**
 
-* ❌ Données personnelles (RGPD) : noms, adresses, numéros de sécurité sociale
 * ❌ Données médicales
 * ❌ Données classifiées (Diffusion restreinte, Secret, Très Secret)
-* ❌ Données sous secret professionnel
-* ❌ Données sensibles au sens de la loi SREN ou de l'ANSSI
+* ❌ Données sensibles au sens  de l'ANSSI
 
 **À faire :**
 
-* ✅ Anonymisez systématiquement les données
+* ✅ Anonymisez les données lorsque vous le pouvez
 * ✅ Consultez votre référent IA ou DPO en cas de doute
 * ✅ Préférez les données déjà publiques
 
@@ -145,15 +142,13 @@ Vos conversations sont conservées **tant que votre compte est actif**. Vous pou
 
 ### Quel modèle d'IA est utilisé ?
 
-**Modèle principal actuel :** Mistral Medium 3.1
+**Modèle principal actuel :** Mistral Medium 2508
 
-D'autres modèles peuvent être disponibles selon la configuration de votre administration. La liste des modèles accessibles est visible dans l'interface, onglet "Modèles".
+D'autres modèles peuvent être utilisée lorsque l'Assistant connaît une forte charge, afin que votre expérience soit la plus pérenne possible : si les serveurs du modèle principal sont surchargé, vous basculez sur un autre modèle, qui répond aux mêmes exigences de sécurité et de souveraineté.&#x20;
 
-Pour plus d'informations : [Sélection des modèles](../guides/models.md)
+De plus, si certaines fonctionalités sont dégradées du fait du changement de modèle, un bandeau d'erreur s'affichera en haut de la page de l'Assistant.
 
-### Puis-je changer de modèle ?
 
-**Oui**, vous pouvez sélectionner différents modèles disponibles dans les paramètres de votre conversation. La liste des modèles accessibles dépend de votre administration.
 
 ### Pourquoi les réponses varient-elles selon les modèles ?
 
@@ -163,8 +158,6 @@ Chaque modèle a ses propres caractéristiques :
 * **Style** : Les réponses peuvent avoir des tonalités différentes
 * **Connaissances** : Les dates de coupure des données d'entraînement varient
 * **Capacités** : Certains modèles gèrent mieux les longs contextes ou les documents
-
-N'hésitez pas à tester différents modèles pour trouver celui qui correspond le mieux à vos besoins.
 
 ### La recherche web est-elle toujours activée ?
 
@@ -188,7 +181,7 @@ N'hésitez pas à tester différents modèles pour trouver celui qui correspond 
 Un **projet** est un espace qui regroupe plusieurs conversations avec :
 
 * Une **instruction commune** partagée par toutes les conversations du projet
-* Un **contexte spécifique** pour adapter le comportement de l'Assistant
+* Un **contexte documentaire spécifique** pour adapter le comportement de l'Assistant
 * Une **organisation simplifiée** de vos échanges par thème
 
 **Exemples d'utilisation :**
@@ -205,15 +198,7 @@ Un **projet** est un espace qui regroupe plusieurs conversations avec :
 4. Ajoutez éventuellement des documents de référence
 5. Commencez une nouvelle conversation dans ce projet
 
-### Qu'est-ce qu'une collection ?
 
-Une **collection** est un ensemble de documents que vous pouvez organiser et interroger ensemble. Contrairement à un projet qui organise des conversations, une collection organise des **documents**.
-
-**Utilisations typiques :**
-
-* Une collection de tous vos documents administratifs
-* Une collection de textes de loi pour un domaine spécifique
-* Une collection de comptes-rendus de réunion
 
 ***
 
@@ -244,19 +229,10 @@ La fonctionnalité d'export est **en développement**. En attendant, vous pouvez
 
 * **Copier-coller** manuellement le contenu
 * **Prendre des captures d'écran** pour les échanges importants
-* **Utiliser l'API** (pour les utilisateurs techniques, sous réserve d'autorisation)
 
 ***
 
 ## Support et communauté
-
-### Comment faire des retours sur l'outil ?
-
-Plusieurs moyens :
-
-1. **Directement dans l'application** : Cliquez sur "Faire un retour"
-2. **Via le formulaire en ligne** : [Faire un retour rapide](https://formulaire.beta.numerique.gouv.fr/r/assistant)
-3. **Sur Tchap** : Rejoignez le [canal dédié](https://tchap.gouv.fr/#/room/!eAHyPLdVHMxNhKAbaC:agent.dinum.tchap.gouv.fr)
 
 ### Où puis-je discuter avec d'autres utilisateurs ?
 
@@ -270,13 +246,11 @@ Rejoignez la communauté sur **Tchap** : [Canal Assistant IA](https://tchap.gouv
 
 ### Comment signaler un bug ?
 
-Pour signaler un bug efficacement :
+Rendez vous sur la page Signaler un problème :
 
-1. **Décrivez** précisément le problème (étapes pour reproduire)
-2. **Joignez** des captures d'écran si possible
-3. **Précisez** votre navigateur et version
-4. **Indiquez** l'heure approximative du problème
-5. **Utilisez** le [formulaire de signalement](report-issue.md)
+{% content-ref url="report-issue.md" %}
+[report-issue.md](report-issue.md)
+{% endcontent-ref %}
 
 ***
 
@@ -286,19 +260,19 @@ Pour signaler un bug efficacement :
 
 **Différences principales :**
 
-| Critère             | Assistant IA                           | ChatGPT                                      |
-| ------------------- | -------------------------------------- | -------------------------------------------- |
-| **Souveraineté**    | ✅ Hébergé en France (SecNumCloud)      | ❌ Hébergé aux États-Unis                     |
-| **Confidentialité** | ✅ Données ne sortent pas de France     | ❌ Données peuvent être stockées à l'étranger |
-| **Accès**           | ✅ Réservé aux agents publics           | ❌ Ouvert au grand public                     |
-| **Modèles**         | ✅ Modèles sélectionnés (Mistral, etc.) | ✅/❌ Selon abonnement                         |
-| **Sécurité**        | ✅ Adapté aux contraintes de l'État     | ❌ Non conçu pour les besoins publics         |
+| Critère             | Assistant IA                                                                                                                             | ChatGPT                                                                                                                              |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **Souveraineté**    | ✅ Hébergé en France (SecNumCloud)                                                                                                        | ❌ Hébergé aux États-Unis                                                                                                             |
+| **Confidentialité** | ✅ Données ne sortent pas de France                                                                                                       | ❌ Données peuvent être stockées à l'étranger                                                                                         |
+| **Accès**           | ✅ Réservé aux agents publics                                                                                                             | ❌ Ouvert au grand public                                                                                                             |
+| **Modèles**         | Modèles ouverts et propriétaires d'environ 120 milliard de paramètres, limités par des logiques de coût et d'empreinte environnementales | Modèles propriétaires de plusieurs téras de paramètres (1000 milliards, soit 10 fois plus coûteux), avec des meilleurs performances  |
+| **Sécurité**        | ✅ Adapté aux contraintes de l'État                                                                                                       | ❌ Non conçu pour les besoins publics                                                                                                 |
 
 L'Assistant IA est **spécifiquement conçu** pour répondre aux besoins des agents publics dans un cadre **souverain et sécurisé**.
 
 ### Puis-je utiliser l'Assistant IA sur mobile ?
 
-**Oui**, l'application web est **responsive** et fonctionne sur :
+**Oui**, l'application web est **disponible sur votre navigateur** et fonctionne sur :
 
 * Smartphones (iOS et Android)
 * Tablettes
@@ -306,15 +280,9 @@ L'Assistant IA est **spécifiquement conçu** pour répondre aux besoins des age
 
 **Recommandations :**
 
-* Utilisez le navigateur natif (Safari sur iOS, Chrome sur Android)
-* Activez le mode bureau pour une meilleure expérience
-* Une application mobile dédiée est **à l'étude**
+* Ajoutez un marque-page sur l'Assistant qui peut prendre la forme d'une icone sur mobile ou d'un raccourci sur ordinateur.
 
-### Qu'est-ce qu'Albert ?
 
-**Albert** est le nom de marque des produits IA interministériels. L'Assistant IA utilise **Albert API**, le service sous-jacent qui fournit les modèles d'IA.
-
-Pour simplifier, nous utilisons désormais principalement le terme **"Assistant IA"** pour éviter les confusions.
 
 ***
 

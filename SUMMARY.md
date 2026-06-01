@@ -18,11 +18,6 @@
 * [Recherche web](guides-pratiques/recherche-web.md)
 * [Résumé automatique](guides-pratiques/resume.md)
 
-## Pour aller plus loin
-
-* [Feuille de route](pour-aller-plus-loin/feuille-de-route.md)
-* [Automatisations et API](pour-aller-plus-loin/automatisations-et-api.md)
-
 ## Dépannage
 
 * [Comprendre les erreurs de l'Assistant](depannage/erreurs.md)
@@ -33,3 +28,8 @@
 
 * [Mentions légales](documentation-legale/legal.md)
 * [Protection des données](documentation-legale/data-protection.md)
+
+## Pour aller plus loin
+
+* [Feuille de route](pour-aller-plus-loin/feuille-de-route.md)
+* [Automatisations et API](pour-aller-plus-loin/automatisations-et-api.md)

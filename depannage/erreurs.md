@@ -11,9 +11,7 @@ Cette section vous aide à résoudre les problèmes les plus courants rencontré
 
 Pensez à **rafraîchir la page** (F5 ou Ctrl+R) pour vérifier s'il n'y a pas un **bandeau d'erreur** en haut de l'interface indiquant l'indisponibilité de certaines fonctionnalités. Ces dernières peuvent être configurées par l'équipe de l'Assistant ou mises à jour automatiquement lorsque des fonctionnalités cassées sont détectées.
 
-Si vous rencontrez un **vrai message d'erreur technique** (qui ne ressemble pas à une réponse normale de l'Assistant), vous pouvez réessayer dans une nouvelle conversation.
-
-Consultez les questions fréquentes ou signalez directement un problème si vous ne trouvez pas de solution.
+Si vous rencontrez un **vrai message d'erreur technique** (qui ne ressemble pas à une réponse normale de l'Assistant), vous pouvez réessayer dans une nouvelle conversation. La plupart de ces erreurs vous empêcherons de continuer dans cette conversation, car celle-ci est en message d'erreur.
 
 ***
 
