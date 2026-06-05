@@ -10,7 +10,7 @@
 * [Présentation](concepts-de-base/presentation.md)
 * [Projets dans l'Assistant](concepts-de-base/projets.md)
 * [Capacités et limites](concepts-de-base/capacites-et-limites.md)
-* [Sécurité et souveraineté](concepts-de-base/securite-et-souverainete.md)
+* [Sécurité](concepts-de-base/securite-et-souverainete.md)
 
 ## Guides pratiques
 
