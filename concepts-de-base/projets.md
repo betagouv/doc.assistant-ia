@@ -15,6 +15,10 @@ Un projet est un [système prompt](/broken/pages/XxpaSwv0mal4wfmEdfPm#système-p
 Pour l'instant, les projets ne construisent pas d'historique commun. Pour faire évoluer le comportement de l'Assistant au sein d'un projet, il convient donc de modifier ses instructions et de rajouter des documents.
 {% endhint %}
 
+{% hint style="warning" %}
+**Limite temporaire** : Il y a actuellement une limite de **10 documents de 10 Mo chacun par projet**. Cette limite est due au dimensionnement actuel du service et sera amenée à évoluer positivement très rapidement.
+{% endhint %}
+
 Les projets sont isolés les uns des autres. Les documents, l'historique des conversations et les configurations ne se partagent pas entre les projets.
 
 ## La hiérarchie

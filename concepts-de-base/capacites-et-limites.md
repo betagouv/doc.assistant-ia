@@ -27,6 +27,12 @@ L'assistant **ne peut pas** :
 * **Modifier ou générer des fichiers** : Pour l'instant, l'Assistant ne fait que générer le texte que vous pouvez ensuite insérer dans des fichiers.
 * **Effectuer des actions physiques** : Il ne peut pas interagir avec le matériel, les périphériques, ou effectuer des opérations système.
 
+## Limites techniques actuelles
+
+{% hint style="warning" %}
+**Capacité documentaire** : Il y a actuellement une limite de **10 documents de 10 Mo chacun par projet**. Cette limite est due au dimensionnement actuel du service et sera amenée à évoluer positivement très rapidement.
+{% endhint %}
+
 ## Pourquoi ces limites ?
 
 Ces restrictions existent par **conception de sécurité**, ainsi que d'avancée sur la feuille de route (voir section ci-dessous) :
