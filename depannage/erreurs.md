@@ -182,7 +182,6 @@ Si le problème persiste, [signalez-le à l'équipe](../troubleshooting/report-i
 * **Données sensibles** au sens de l'ANSSI ou de la loi SREN
 * **Données confidentielles** ou classifiées (Diffusion restreinte, Secret, Très Secret)
 * **Données médicales**
-* **Informations sous secret professionnel**
 
 **Bonnes pratiques :**
 
