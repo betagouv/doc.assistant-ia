@@ -275,8 +275,8 @@ N'oubliez pas de **sauvegarder** vos modifications.
 | ✅ Formulation     | Structurer sa question | Meilleure pertinence     |
 | ✅ Recherche web   | Cliquer sur 🌐         | Informations actualisées |
 | ✅ Documents       | Glisser-déposer        | Analyse de fichiers      |
-| ✅ Gestion         | Renommer, archiver     | Organisation efficace    |
-| ✅ Projets         | Créer un espace        | Travail organisé         |
+| ✅ Gestion         | Renommer, supprimer    | Organisation efficace    |
+| ✅ Projets         | Créer un projet        | Travail organisé         |
 | ✅ Confidentialité | Configurer             | Contrôle de vos données  |
 
 ***
