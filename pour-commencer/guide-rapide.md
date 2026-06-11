@@ -106,8 +106,7 @@ Maintenant que vous maîtrisez les bases, explorez :
 
 1. [**Gestion des documents**](../guides/documents.md) - Maîtriser l'analyse de fichiers
 2. [**Recherche web**](../guides-pratiques/recherche-web.md) - Approfondir la recherche d'informations
-3. [**Bases documentaires**](../pour-aller-plus-loin/automatisations-et-api.md#bases-documentaires-et-projets) - Organiser vos documents
-4. [**Troubleshooting**](../depannage/erreurs.md) - Résoudre les problèmes courants
+3. [**Troubleshooting**](../depannage/erreurs.md) - Résoudre les problèmes courants
 
 ***
 
