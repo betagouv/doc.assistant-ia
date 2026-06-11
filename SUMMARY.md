@@ -2,7 +2,7 @@
 
 ## Pour commencer
 
-* [Introduction](README.md)
+* [Documentation utilisateurs](README.md)
 * [Guide rapide](pour-commencer/guide-rapide.md)
 
 ## Concepts de base
