@@ -9,7 +9,7 @@ icon: door-open
 
 ## L'Assistant, c'est quoi ?&#x20;
 
-**L'Assistant** vous permet d'échanger avec des modèles d'intelligence artificiel dans un espace **sécurisé** en ligne, de créer des conversations et des projets avec vos documents, et vos instructions adaptées à vos métiers.
+**L'Assistant** est une plateforme de la DINUM qui vous permet d'échanger avec des modèles d'intelligence artificiel dans un espace **sécurisé** en ligne, de créer des conversations et des projets avec vos documents, et vos instructions adaptées à vos métiers.
 
 {% hint style="info" %}
 Vous pouvez utiliser l'Assistant sans coût et sans quotas d'utilisation
@@ -22,6 +22,22 @@ Vous pouvez utiliser l'Assistant sans coût et sans quotas d'utilisation
 * Hébergement souverain et sécurisé : les documents importés dans l'Assistant et le contenu des conversations sont stockés de façon **sécurisée** sur des infrastructures qualifiées SecNumCloud.
 * Vous pouvez accéder à l'Assistant en lgne depuis n'importe quel navigateur, sans installation de logiciel.
 * Simplicité d'usage : une interface simple pour aider les agents à monter en compétence sur l'utilisation de l'intelligence artificielle sans complexité.
+
+### Un outil généraliste pour permettre aux directions métiers de se concentrer sur leurs spécificités
+
+* Une brique essentielle du socle d'IA générative de la DINUM;
+* Un assistant généraliste qui permettra d'intégrer facilement des modules spécifiques aux métiers, aux ministères et à la granularité de l'administrations, de ses langages et de ses spécificités;
+* Le tout à moindre coût, car sans le besoin de re-développer une interface nouvelle, en s'intégrant directement à l'Assistant
+
+
+
+{% hint style="warning" icon="lightbulb-on" %}
+**L'Assistant n'est donc pas spécialisé pour l'administration ?**  Pas encore !&#x20;
+
+Créé à la Direction Interministérielle du numérique, l'Assistant a pour objectif d'être d'abord un **outil généraliste** adapté à la **grande variété des métiers** de l'administration de l'état et de ses organismes de tutelle, ainsi qu'aux contraintes de **sécurité et de souveraineté.**
+
+Il est construit pour être modulaire, et pouvoir intégrer dès la fin 2026 des modules métiers.
+{% endhint %}
 
 
 

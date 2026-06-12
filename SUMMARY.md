@@ -5,15 +5,9 @@
 * [Documentation utilisateurs](README.md)
 * [Bien démarrer](pour-commencer/guide-rapide.md)
 
-## Concepts de base
-
-* [Présentation](concepts-de-base/presentation.md)
-* [Projets dans l'Assistant](concepts-de-base/projets.md)
-* [Capacités et limites](concepts-de-base/capacites-et-limites.md)
-* [Sécurité](concepts-de-base/securite-et-souverainete.md)
-
 ## Guides pratiques
 
+* [Sécurité](guides-pratiques/securite-et-souverainete.md)
 * [Gestion des documents](guides/documents.md)
 * [Recherche web](guides-pratiques/recherche-web.md)
 * [Résumé automatique](guides-pratiques/resume.md)
@@ -32,5 +26,6 @@
 
 ## Pour aller plus loin
 
+* [Capacités et limites](pour-aller-plus-loin/capacites-et-limites.md)
 * [Feuille de route](pour-aller-plus-loin/feuille-de-route.md)
 * [Automatisations et API](pour-aller-plus-loin/automatisations-et-api.md)

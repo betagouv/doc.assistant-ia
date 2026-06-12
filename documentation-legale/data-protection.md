@@ -380,7 +380,7 @@ Services du Premier ministre
 ## Ressources supplémentaires
 
 * [**Mentions légales**](legal.md) - Cadre juridique complet
-* [**Sécurité et souveraineté**](../concepts-de-base/securite-et-souverainete.md) - Mesures techniques
+* [**Sécurité et souveraineté**](../guides-pratiques/securite-et-souverainete.md) - Mesures techniques
 * [**CNIL**](https://www.cnil.fr/) - Autorité de protection des données française
 * [**RGPD**](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32016R0679) - Texte officiel du règlement
 * [**Modèles de courrier CNIL**](https://www.cnil.fr/fr/modeles/courrier) - Pour exercer vos droits

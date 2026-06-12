@@ -50,6 +50,7 @@ France
 **Certification :** SecNumCloud (délivrée par l'ANSSI)
 
 **Infrastructure :**
+
 * Filiale de Dassault Systèmes
 * Niveau de sécurité le plus élevé pour les services cloud en France
 * Conformité aux exigences de souveraineté française et européenne
@@ -83,9 +84,7 @@ France
 
 L'Assistant IA respecte les exigences de la [loi SREN](https://www.numerique.gouv.fr/publications/rn-num/loi-sren/) :
 
-✅ **Souveraineté numérique** : Infrastructure et services sous contrôle français/européen
-✅ **Résilience** : Architecture redondante et résistante
-✅ **Protection des données** : Mesures adaptées au niveau de sensibilité
+✅ **Souveraineté numérique** : Infrastructure et services sous contrôle français/européen ✅ **Résilience** : Architecture redondante et résistante ✅ **Protection des données** : Mesures adaptées au niveau de sensibilité
 
 ### Instruction Interministérielle n°901
 
@@ -292,7 +291,7 @@ Nous nous engageons à rendre le service accessible conformément à l'article 4
 * Tests de sécurité réguliers
 * Audits externes
 
-Pour plus de détails : [Sécurité et souveraineté](../concepts-de-base/securite-et-souverainete.md)
+Pour plus de détails : [Sécurité et souveraineté](../guides-pratiques/securite-et-souverainete.md)
 
 ***
 
