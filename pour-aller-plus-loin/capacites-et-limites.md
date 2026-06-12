@@ -13,7 +13,7 @@ L'assistant fonctionne comme un système intelligent basé sur le traitement du 
 
 L'assistant traite l'information **textuelle** :
 
-* Il lit et comprend le code source
+* Il lit et comprend le code
 * Il explique des concepts techniques
 * Il génère du texte, du code, ou de la documentation
 * Il répond à des questions basées sur les données disponibles
@@ -30,7 +30,17 @@ Il peut analyser les documents que vous avez téléverser de 3 manières différ
 * **Utiliser la totalité du document** pour vous répondre (si le document fait environ moins de 5 pages de texte)
 * Sélectionner les **quelques paragraphes** les **plus pertinents** pour s'en inspirer à la génération de votre réponse.
 
-Il peut également déclencher une ou plusieurs recherches internet si&#x20;
+{% content-ref url="../guides/documents.md" %}
+[documents.md](../guides/documents.md)
+{% endcontent-ref %}
+
+Il peut également déclencher une ou plusieurs recherches internet si les paramètres le permettent et que le modèle en rédige la demande. Nous déclenchons alors une recherche web, et le modèle se base sur les résultats de celle-ci pour générer votre réponse.
+
+{% content-ref url="../guides-pratiques/recherche-web.md" %}
+[recherche-web.md](../guides-pratiques/recherche-web.md)
+{% endcontent-ref %}
+
+
 
 ## Ce que l'assistant ne peut pas faire
 
@@ -55,10 +65,16 @@ Ces restrictions existent par **conception de sécurité**, ainsi que d'avancée
 * **Transparence** : Vous gardez toujours le contrôle sur ce qui est exécuté ou modifié.
 * **Prévisibilité** : Le comportement de l'assistant reste dans le domaine de la manipulation de texte et d'information, pas dans celui de l'exécution arbitraire.
 
-Quand l'assistant vous propose une solution impliquant du code, il vous guide **étape par étape** — c'est à vous de décider de l'exécuter dans votre environnement local.
+Quand l'assistant vous propose une solution impliquant du code, il vous guide **étape par étape** et c'est à vous de décider de l'exécuter dans votre environnement local.
+
+
 
 ## Évolution à venir
 
 À terme, l'assistant pourra **exécuter du code dans un environnement sécurisé et isolé** pour réaliser des analyses statistiques, générer des documents, ou effectuer des traitements de données. Ces fonctionnalités seront activées progressivement selon des protocoles de sécurité stricts.
 
 Consultez la [feuille de route](feuille-de-route.md) pour connaître les dates prévisionnelles de ces évolutions.
+
+{% content-ref url="feuille-de-route.md" %}
+[feuille-de-route.md](feuille-de-route.md)
+{% endcontent-ref %}

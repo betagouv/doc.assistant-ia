@@ -133,7 +133,7 @@ Nous faisons appel à des sous-traitants pour l'hébergement et la mesure d'audi
 
 ## Sécurité des fonctionnalités
 
-### Recherche web
+### Recherche web - option qui doit être activée par l'utilisateur
 
 **Fournisseur :** Brave Search API
 
@@ -143,7 +143,7 @@ Nous faisons appel à des sous-traitants pour l'hébergement et la mesure d'audi
 * Pas de tracking utilisateur : les requêtes envoyées pendant vos conversations ne sont pas traçables par le fournisseur Brave
 * Les requêtes sont conservées par Brave pendant **90 jours** (voir leur [DPA](https://cdn.search.brave.com/search-api/web/v1/client/_app/immutable/assets/brave-search-api-dpa-2025-09-09.DRXCoye6.pdf))
 
-**Alternative :** Vous pouvez désactiver la recherche web dans vos paramètres
+**Alternative :** Vous pouvez à tout désactiver la recherche web automatique dans vos paramètres. Celle ci est désactivée par défaut.&#x20;
 
 ### Téléversement de documents
 
