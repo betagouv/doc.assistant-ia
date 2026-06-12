@@ -15,22 +15,17 @@ Votre assistant peut effectuer des **recherches web en temps réel** pour trouve
 
 ## Comment utiliser la recherche web
 
-### Méthode 1 : Commande explicite
+### Méthode 1 : En selectionnant l'outil dans la barre de saisie
 
-Demandez explicitement à l'assistant de faire une recherche web :
+En cliquant sur le bouton "Rechercher sur le web" dans la abrre de saisie, celle-ci apparaît surlignée en bleu. L'Assistant ira chercher des sources sur internet pour répondre à votre requête.
 
-```
-Vous : "Recherchez sur le web : quelles sont les dernières actualités sur l'IA en 2025 ?"
-Assistant : "Je vais effectuer une recherche web pour vous..."
-```
-
-### Méthode 2 : Questions nécessitant des infos récentes
+### Méthode 2 : Utiliser la recherche intélligente
 
 L'assistant peut **automatiquement** déclencher une recherche web si :
 
+* L'option "Recherche web intelligente" est activée dans les paramètres
 * Votre question porte sur des **actualités récentes**
 * Votre question nécessite des **informations à jour**
-* La réponse n'est pas disponible dans la base de connaissances
 
 Exemples :
 
@@ -40,47 +35,7 @@ Vous : "Quel est le taux de change euro/dollar aujourd'hui ?"
 Vous : "Quelles sont les prévisions météo pour demain ?"
 ```
 
-### Méthode 3 : Combinaison avec des documents
 
-L'assistant peut **combiner** recherche web et documents internes :
-
-```
-Vous : "Quelles sont les dernières tendances en cybersécurité et comment notre politique interne les traite-t-elle ?"
-Assistant : "Je vais rechercher les tendances récentes ET consulter nos documents internes..."
-```
-
-## Fonctionnalités avancées
-
-### Résumé automatique des résultats
-
-Les résultats de recherche sont **automatiquement résumés** pour vous fournir :
-
-* 📌 **Points clés** extraits des sources
-* 🔗 **Liens pertinents** vers les articles complets
-* 📊 **Synthèse** des informations principales
-* ⏱️ **Gain de temps** : pas besoin de lire tous les articles
-
-Exemple de sortie :
-
-```
-Assistant : "Voici les points clés sur les tendances IA 2025 :
-
-1. **Modèles multi-modaux** : Combinaison de texte, image et audio (Source : TechCrunch)
-2. **Agents autonomes** : Développement rapide des agents IA autonomes (Source : MIT Technology Review)
-3. **Régulation** : Nouveaux cadre légaux en Europe et aux États-Unis (Source : Reuters)
-
-Souhaitez-vous que je développe un de ces points ?"
-```
-
-### Filtrage des résultats
-
-L'assistant filtre automatiquement :
-
-* ✅ **Sources fiables** (médias reconnus, sites gouvernementaux)
-* ✅ **Contenu récent** (priorité aux informations à jour)
-* ✅ **Pertinence** (correspondance avec votre question)
-* ❌ **Contenu non pertinent**
-* ❌ **Sources peu fiables**
 
 ## Bonnes pratiques
 
@@ -106,14 +61,7 @@ L'assistant filtre automatiquement :
 * ⚠️ **Actualité** : Les informations peuvent être obsolètes quelques heures après la recherche
 * ⚠️ **Biais** : Tous les moteurs de recherche ont des biais potentiels
 
-## Sécurité et confidentialité
 
-### Ce que votre assistant NE fait PAS :
-
-* ❌ **Ne stocke pas** votre historique de recherche
-* ❌ **Ne partage pas** vos requêtes avec des tiers
-* ❌ **Ne suit pas** votre activité sur le web
-* ❌ **N'affiche pas** de publicités ciblées
 
 ### Bonnes pratiques :
 
@@ -162,56 +110,11 @@ L'assistant filtre automatiquement :
 
 * Les liens sont affichés à la fin de chaque message
 * Cliquez sur "Voir la source"
+* Si vous ne voyez pas de source apparaître, il se peut que l'Assistant ait halluciné (voir [hallucinations.md](../pour-aller-plus-loin/hallucinations.md "mention")) et n'ait pas réellement pu chercher sur internet.
 
 </details>
 
-## Exemples concrets
-
-### Scénario 1 : Recherche d'actualités
-
-**Vous** : "Quelles sont les dernières nouvelles sur la réglementation IA en Europe ?"
-
-**Assistant** :
-
-```
-Voici les dernières informations sur la réglementation IA en Europe (juin 2025) :
-
-1. **AI Act** : Entrée en vigueur complète prévue pour décembre 2025
-   - Classification des systèmes IA par niveau de risque
-   - Interdiction des pratiques de scoring social
-   Source : [Commission Européenne](https://ec.europa.eu)
-
-2. **Nouvelles lignes directrices** : Publiées par l'EDPB sur l'utilisation de l'IA dans le traitement des données
-   - Obligations renforcées pour les fournisseurs de modèles de langage
-   Source : [EDPB](https://edpb.europa.eu)
-
-Souhaitez-vous que je rechercher des détails sur un point spécifique ?
-```
-
-### Scénario 2 : Comparaison de produits
-
-**Vous** : "Comparez les derniers smartphones Samsung et Apple en 2025"
-
-**Assistant** :
-
-```
-Comparaison des flagships 2025 :
-
-| Critère | Samsung Galaxy S25 | iPhone 16 Pro |
-|---------|-------------------|---------------|
-| **Écran** | 6.8" Dynamic AMOLED 2X, 120Hz | 6.7" Super Retina XDR, 120Hz |
-| **Processeur** | Snapdragon 8 Gen 4 | A18 Pro |
-| **Appareil photo** | Triple 200MP + 12MP + 10MP | Triple 48MP + 12MP + 12MP |
-| **Batterie** | 5000 mAh | 4400 mAh |
-| **Prix** | À partir de 1299€ | À partir de 1399€ |
-
-Sources : [GSMArena](https://gsmarena.com), [TechRadar](https://techradar.com)
-
-Souhaitez-vous plus de détails sur un modèle en particulier ?
-
-```
-
-## Ressources connexes
+## &#x20;Ressources connexes
 
 {% content-ref url="../guides/documents.md" %}
 [documents.md](../guides/documents.md)
@@ -221,6 +124,3 @@ Souhaitez-vous plus de détails sur un modèle en particulier ?
 [resume.md](resume.md)
 {% endcontent-ref %}
 
-{% content-ref url="../guides/models.md" %}
-[models.md](../guides/models.md)
-{% endcontent-ref %}

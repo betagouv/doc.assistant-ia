@@ -29,3 +29,4 @@
 * [Capacités et limites](pour-aller-plus-loin/capacites-et-limites.md)
 * [Feuille de route](pour-aller-plus-loin/feuille-de-route.md)
 * [Automatisations et API](pour-aller-plus-loin/automatisations-et-api.md)
+* [Hallucinations](pour-aller-plus-loin/hallucinations.md)
