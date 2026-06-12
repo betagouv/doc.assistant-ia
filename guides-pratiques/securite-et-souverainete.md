@@ -19,7 +19,7 @@ La sécurité de l'Assistant IA repose sur plusieurs piliers :
 ### Qui peut accéder à vos données ?
 
 * **Vous seul** : Par défaut, vos conversations sont **privées** et accessibles uniquement par vous.
-* **Votre administration** : Peut accéder à des statistiques **anonymisées** pour comprendre l'usage du service.
+* **Votre administration** : Peut accéder sur demande à des statistiques **anonymisées et aggrégées** pour comprendre l'usage du service.
 * **L'équipe technique** : Peut accéder aux logs techniques (sans le contenu de vos conversations) pour la maintenance.
 * **L'équipe produit DINUM** : **Uniquement si vous avez activé l'option « Autoriser l'analyse de conversation »** dans vos paramètres. Dans ce cas, ils peuvent lire vos conversations pour améliorer le service, mais **jamais** pour entraîner des modèles ou les partager avec des tiers.
 
@@ -27,7 +27,7 @@ La sécurité de l'Assistant IA repose sur plusieurs piliers :
 **Important :** Pour une confidentialité maximale, désactivez l'option « Autoriser l'analyse de conversation » dans vos paramètres. Celle-ci est désactivée par défaut.
 {% endhint %}
 
-## 🚫 Ce que vous NE devez PAS faire
+## Ce que vous NE devez PAS faire
 
 Pour garantir la sécurité de tous, il est **strictement interdit** d'utiliser l'Assistant IA pour :
 
@@ -55,6 +55,8 @@ En tant qu'éditrice de l'Assistant IA, la DINUM s'engage à :
 ✅ Corriger les dysfonctionnements signalés\
 ✅ Ne jamais partager vos données avec des tiers commerciaux\
 ✅ Ne jamais utiliser vos données pour entraîner des modèles d'IA
+
+
 
 ## 🔍 Besoin de plus d'informations ?
 
