@@ -212,10 +212,8 @@ Si vous ne trouvez pas de solution à votre problème :
 1. [**Consultez les questions fréquentes**](../troubleshooting/faq.md)
 2. [**Signalez un problème**](../troubleshooting/report-issue.md) à l'équipe technique
 3. **Contactez votre référent IA** ministériel
-4. **Rejoignez le canal Tchap** dédié : [#assistant-ia](https://tchap.gouv.fr/)
+4. **Rejoignez le canal Tchap** de la communauté pour voir si d'autres utilisateurs ont déjà rencontré le même problème : [Lien vers le canal Tchap](https://tchap.gouv.fr/#/room/!eAHyPLdVHMxNhKAbaC:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr\&via=agent.education.tchap.gouv.fr\&via=agent.justice.tchap.gouv.fr)
 
 {% hint style="warning" %}
-**Important :** En cas de **vrai message d'erreur technique** (trace, code, ou message anormal), fermez la conversation et réessayez dans une **nouvelle fenêtre**.
-
-En cas de problème urgent ou de suspicion de fuite de données, contactez immédiatement votre référent IA ou l'équipe DINUM via les canaux officiels.
+Le canal de la communauté à pour but de créer un lieu d'échange entre utilisateurs. Les demandes d'accès à l'Assistant par des personnes ne remplissant pas les conditions énoncées dans cette documentation seront supprimées.
 {% endhint %}
