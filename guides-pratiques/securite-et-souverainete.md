@@ -15,6 +15,7 @@ La sécurité de l'Assistant IA repose sur plusieurs piliers :
 
 * **Isolement complet** : Vos conversations et documents sont **strictement séparés** de ceux des autres utilisateurs. Personne d'autre ne peut y accéder.
 * **Authentification renforcée** : L'accès se fait exclusivement via **ProConnect**, avec vos identifiants professionnels.
+* **Infrastrucutre labélisée SecNumCloud** : conformément à la loi SREN, les serveurs qui hébergent l'Assistant répondent à des critères élevées en sécurité des systèmes d'information pour assurer une isolation physique du réseau en plus de la sécurité applicative.
 
 ### Qui peut accéder à vos données ?
 
@@ -34,8 +35,6 @@ Pour garantir la sécurité de tous, il est **strictement interdit** d'utiliser 
 ✖️ Traiter des **données classifiées** (Diffusion Restreinte, Secret, Très Secret)
 
 ✖️ Prendre des **décisions administratives individuelles** (l'IA ne remplace pas votre jugement)
-
-✖️ Soumettre des **données personnelles non anonymisées** (RGPD)
 
 ✖️ Générer ou diffuser des **contenus illicites**
 
