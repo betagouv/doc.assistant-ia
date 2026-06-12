@@ -84,9 +84,13 @@ France
 
 L'Assistant IA respecte les exigences de la [loi SREN](https://www.numerique.gouv.fr/publications/rn-num/loi-sren/) :
 
-✅ **Souveraineté numérique** : Infrastructure et services sous contrôle français/européen ✅ **Résilience** : Architecture redondante et résistante ✅ **Protection des données** : Mesures adaptées au niveau de sensibilité
+✅ **Souveraineté numérique** : Infrastructure et services sous contrôle français/européen&#x20;
 
-### Instruction Interministérielle n°901
+✅ **Résilience** : Architecture redondante et résistante&#x20;
+
+✅ **Protection des données** : Mesures adaptées au niveau de sensibilité
+
+
 
 Respect des exigences pour le traitement des informations classifiées :
 
