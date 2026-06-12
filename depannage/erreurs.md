@@ -165,32 +165,6 @@ Si le problème persiste, [signalez-le à l'équipe](../troubleshooting/report-i
 
 ## Problèmes divers
 
-### Je ne sais pas quelles données je peux mettre dans l'Assistant
-
-**Règles générales :**
-
-✅ **Autorisé :**
-
-* Données publiques
-* Données professionnelles non sensibles
-* Informations déjà publiques ou destinées à être publiées
-* Données nécessaires à l'exécution de vos missions
-
-❌ **Interdit :**
-
-* **Données personnelles** (RGPD) : noms, adresses, numéros de sécurité sociale, etc.
-* **Données sensibles** au sens de l'ANSSI ou de la loi SREN
-* **Données confidentielles** ou classifiées (Diffusion restreinte, Secret, Très Secret)
-* **Données médicales**
-
-**Bonnes pratiques :**
-
-* **Anonymisez** les données avant de les soumettre
-* **Vérifiez** avec votre référent IA ou votre DPO en cas de doute
-* **Préférez** les données déjà publiques ou déclassifiées
-
-**Pour en savoir plus :** Consultez [notre page sur la protection des données](../documentation-legale/data-protection.md)
-
 ### L'Assistant donne des réponses incorrectes
 
 **Solutions :**
