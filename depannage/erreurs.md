@@ -38,7 +38,7 @@ Si vous rencontrez un **vrai message d'erreur technique** (qui ne ressemble pas 
    * Vide le cache de votre navigateur
    * Désactivez les extensions qui pourraient bloquer la connexion
 4. **Maintenance en cours**
-   * Vérifiez l'état du service sur [la page de statut](https://statut.numerique.gouv.fr/)
+   * Les maintenances sont annoncées dans l'interface par l'intermédiaire de bannières situées en haut de la partie centrale. Une page de statut vera bientôt le jour.
 
 {% hint style="info" %}
 Si le problème persiste, [signalez-le à l'équipe](../troubleshooting/report-issue.md).
@@ -68,14 +68,12 @@ Si le problème persiste, [signalez-le à l'équipe](../troubleshooting/report-i
 **Solutions :**
 
 1. **Vérifiez le type de fichier**
-   * Formats supportés : PDF, images (JPG, PNG, WEBP), documents bureautiques (.md, .docx, .pptx, .xlsx)
-   * Taille maximale : 10 Mo par fichier (variable selon la configuration)
+   * Formats supportés : PDF, images (JPG, PNG), documents bureautiques (.md, .docx, .pptx, .xlsx)
+   * Taille maximale : 10 Mo par fichier (variable selon la configuration) : un message d'erreur précisant la taille maximale s'affichera si le téléversement échoue.
 2. **Vérifiez la disponibilité de la fonctionnalité**
    * Le téléversement de documents peut être temporairement désactivé pour maintenance
    * Un **bandeau d'erreur** peut apparaître en haut de page
 3. **Essayez un autre navigateur**
-4. **Vérifiez vos permissions**
-   * Certaines restrictions peuvent s'appliquer selon votre administration
 
 ### L'Assistant ne comprend pas mon document
 
@@ -113,9 +111,6 @@ Si le problème persiste, [signalez-le à l'équipe](../troubleshooting/report-i
    * Le service de recherche peut être temporairement indisponible
    * **Rafraîchissez la page** pour vérifier l'affichage d'un bandeau d'erreur
    * Réessayez plus tard
-4. **Fonctionnalité désactivée par votre administration ?**
-   * Certaines administrations limitent l'accès à la recherche web pour des raisons de sécurité
-   * Contactez votre référent IA pour vérifier la configuration
 
 ***
 
@@ -129,15 +124,12 @@ Si le problème persiste, [signalez-le à l'équipe](../troubleshooting/report-i
 2. **Fermez les onglets inutilisés**
 3. **Utilisez un navigateur moderne** (Chrome, Firefox, Edge, Safari récent)
 4. **Videz le cache** de votre navigateur
-5. **Désactivez les extensions** gourmandes en ressources
 
 ### Les conversations mettent du temps à charger
 
 **Solutions :**
 
-1. **Réduisez le nombre de conversations ouvertes**
-2. **Archivez les anciennes conversations**
-3. **Utilisez la recherche** pour trouver des conversations spécifiques au lieu de tout parcourir
+1. **Utilisez la recherche** pour trouver des conversations spécifiques au lieu de tout parcourir
 
 ***
 
