@@ -161,7 +161,7 @@ Les logos et marques de l'État, de la DINUM, de LaSuite et de l'Assistant IA so
 
 #### Modèles d'IA
 
-Les modèles d'IA utilisés (Mistral, etc.) sont la propriété de leurs éditeurs respectifs. Leurs licences sont documentées sur : [https://albert.sites.beta.gouv.fr/solutions/models/](https://albert.sites.beta.gouv.fr/solutions/models/)
+Les modèles d'IA utilisés (Mistral, etc.) sont la propriété de leurs éditeurs respectifs. Leurs licences sont documentées sur : [https://ia.numerique.gouv.fr/outils-ia/albert-api/mod%C3%A8les/](https://ia.numerique.gouv.fr/outils-ia/albert-api/mod%C3%A8les/)
 
 #### Contenus générés par les utilisateurs
 
@@ -232,7 +232,14 @@ La DINUM ne peut être tenue responsable :
 
 Il est **strictement interdit** d'utiliser l'Assistant IA pour :
 
-❌ Générer ou diffuser des contenus illicites (haine, discrimination, etc.) ❌ Enfreindre les lois et réglementations en vigueur ❌ Traiter des données classifiées (Diffusion restreinte, Secret, Très Secret) ❌ Prendre des décisions administratives individuelles ❌ Usurper l'identité d'autrui ❌ Effectuer des activités de piratage ou de test d'intrusion non autorisé ❌ Utiliser le service à des fins personnelles ou commerciales non autorisées ❌ Contourner les mesures de sécurité ou de limitation d'accès
+❌ Générer ou diffuser des contenus illicites (haine, discrimination, etc.) \
+❌ Enfreindre les lois et réglementations en vigueur \
+❌ Traiter des données classifiées (Diffusion restreinte, Secret, Très Secret) \
+❌ Prendre des décisions administratives individuelles \
+❌ Usurper l'identité d'autrui \
+❌ Effectuer des activités de piratage ou de test d'intrusion non autorisé \
+❌ Utiliser le service à des fins personnelles ou commerciales non autorisées \
+❌ Contourner les mesures de sécurité ou de limitation d'accès
 
 ***
 
@@ -331,23 +338,9 @@ Conformément à la loi, certains outils de mesure d'audience, correctement conf
 
 ## Contact
 
-### Pour les questions techniques
+
 
 **Email :** support-assistant@numerique.gouv.fr
-
-**Formulaire :** [https://formulaire.beta.numerique.gouv.fr/r/assistant](https://formulaire.beta.numerique.gouv.fr/r/assistant)
-
-**Canal Tchap :** [#assistant-ia](https://tchap.gouv.fr/#/room/!eAHyPLdVHMxNhKAbaC:agent.dinum.tchap.gouv.fr)
-
-### Pour les questions juridiques
-
-**Email :** juridique@numerique.gouv.fr
-
-### Pour les signalements de sécurité
-
-**Email :** incident@numerique.gouv.fr
-
-**Téléphone :** 01 71 21 01 70 (urgence)
 
 ### Adresse postale
 
