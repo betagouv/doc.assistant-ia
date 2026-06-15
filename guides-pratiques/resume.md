@@ -15,8 +15,6 @@ Votre assistant peut **résumer automatiquement** des documents, des pages web e
 
 ## Comment utiliser le résumé
 
-### Méthode 1 : Résumé de documents
-
 Glissez-déposez un document ou uploadez-le, puis demandez un résumé :
 
 ```
@@ -24,43 +22,6 @@ Vous : "Voici un rapport de 50 pages. Peux-tu me le résumer ?"
 [Glissez-déposez le document]
 Assistant : "Voici le résumé du rapport..."
 ```
-
-### Méthode 2 : Résumé de pages web
-
-L'assistant peut résumer des pages web trouvés via la recherche :
-
-```
-Vous : "Recherche web sur les dernières avancées en IA et résume les résultats"
-Assistant : "Voici un résumé des dernières avancées..."
-```
-
-Ou avec une URL spécifique :
-
-```
-Vous : "Résume l'article à cette URL : https://exemple.com/article-long"
-Assistant : "Voici le résumé de l'article..."
-```
-
-### Méthode 3 : Résumé de conversations
-
-Résumez une conversation en cours ou passée :
-
-```
-Vous : "Résume ce que nous avons discuté jusqu'à présent"
-Assistant : "Voici les points principaux de notre conversation..."
-```
-
-## Fonctionnalités de résumé
-
-### Types de résumés
-
-| Type                        | Description                | Cas d'usage         |
-| --------------------------- | -------------------------- | ------------------- |
-| **Résumé court**            | 3-5 points clés            | Aperçu rapide       |
-| **Résumé détaillé**         | 10-15 points avec contexte | Analyse approfondie |
-| **Résumé structuré**        | Avec titres et sections    | Documents formels   |
-| **Résumé en bullet points** | Liste de points            | Présentations       |
-| **Résumé en paragraphe**    | Texte continu              | Rapports            |
 
 ### Personnalisation du résumé
 
@@ -82,8 +43,6 @@ Vous : "Résume seulement la section sur la sécurité"
 Vous : "Quels sont les 5 points d'action mentionnés ?"
 ```
 
-## Outils de résumé intégrés
-
 ### Résumé de documents
 
 Avec l'outil **Summarize** :
@@ -92,22 +51,6 @@ Avec l'outil **Summarize** :
 * ✅ Identification automatique des sections importantes
 * ✅ Conservation de la structure (titres, sous-titres)
 * ✅ Extraction des données clés (dates, noms, chiffres)
-
-### Résumé de résultats de recherche web
-
-Avec Brave Search + Summarize :
-
-* ✅ Résumé automatique des résultats
-* ✅ Synthèse multi-sources
-* ✅ Détection des informations contradictoires
-* ✅ Hiérarchisation par pertinence
-
-### Résumé de conversations
-
-* ✅ Conservation du contexte
-* ✅ Identification des décisions et actions
-* ✅ Groupement par thèmes
-* ✅ Mise en évidence des points non résolus
 
 ## Bonnes pratiques
 
