@@ -101,16 +101,6 @@ Vous : "Résume ce document en anglais"
 Vous : "Fais un résumé en français de cet article"
 ```
 
-## Intégration avec d'autres outils
-
-### Résumé + Recherche web
-
-Combinez le résumé avec la recherche pour des réponses complètes :
-
-```
-Vous : "Recherche les dernières bonnes pratiques en cybersécurité et résume-les"
-```
-
 ## Limites et conseils
 
 ### Ce que le résumé peut faire
