@@ -311,7 +311,7 @@ Vous : "Résume tous les documents de la collection 'Projet Beta'"
 
 </details>
 
-## Ressources connexes
+## Ressources similaires
 
 {% content-ref url="../guides/documents.md" %}
 [documents.md](../guides/documents.md)
@@ -319,8 +319,4 @@ Vous : "Résume tous les documents de la collection 'Projet Beta'"
 
 {% content-ref url="recherche-web.md" %}
 [recherche-web.md](recherche-web.md)
-{% endcontent-ref %}
-
-{% content-ref url="https://advanced/automations-and-api.md" %}
-[//advanced/automations-and-api.md](https://advanced/automations-and-api.md)
 {% endcontent-ref %}
