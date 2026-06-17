@@ -19,8 +19,8 @@ Vous pouvez utiliser l'Assistant sans coût et sans quotas d'utilisation
 
 ### Avoir un outil d'intelligence artificiel maîtrisé et sécurisé
 
-* Hébergement souverain et sécurisé : les documents importés dans l'Assistant et le contenu des conversations sont stockés de façon **sécurisée** sur des infrastructures qualifiées SecNumCloud.
-* Vous pouvez accéder à l'Assistant en lgne depuis n'importe quel navigateur, sans installation de logiciel.
+* Hébergement souverain et sécurisé : les documents importés dans l'Assistant et le contenu des conversations sont stockés de façon **sécurisée** sur des infrastructures qualifiées SecNumCloud. Le traitement par des modèles d'IA est aussi réalisé dans cet environnement, sans envoi à des acteurs tiers.
+* Vous pouvez accéder à l'Assistant en ligne depuis n'importe quel navigateur, sans installation de logiciel.
 * Simplicité d'usage : une interface simple pour aider les agents à monter en compétence sur l'utilisation de l'intelligence artificielle sans complexité.
 
 ### Un outil généraliste pour permettre aux directions métiers de se concentrer sur leurs spécificités
