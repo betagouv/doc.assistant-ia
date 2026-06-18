@@ -17,7 +17,7 @@
 * [Comprendre les erreurs de l'Assistant](depannage/erreurs.md)
 * [Questions fréquentes](troubleshooting/faq.md)
 * [Signaler un problème](troubleshooting/report-issue.md)
-* [Suis-je éligible à un accès à l'Assistant ?](depannage/suis-je-eligible-a-un-acces-a-lassistant.md)
+* [Accéder à l'Assistant](depannage/acceder-a-lassistant.md)
 
 ## Documentation légale
 
