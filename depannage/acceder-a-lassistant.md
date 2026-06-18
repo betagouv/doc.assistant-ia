@@ -26,10 +26,3 @@ L'unique manière d'être surs que votre administration relève bien de cette d�
 #### Exemples d'administrations non éligibles
 
 * Collectivités territoriales
-
-
-
-#### Exemples d'adminstration au statut juridique complexe, où vous devez contacter votre hiérarchie
-
-* Groupements d'intérêts publics
-* Groupements hospitaliers
