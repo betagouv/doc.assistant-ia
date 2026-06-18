@@ -17,9 +17,9 @@ Votre assistant peut effectuer des **recherches web en temps réel** pour trouve
 
 ### Méthode 1 : En selectionnant l'outil dans la barre de saisie
 
-En cliquant sur le bouton "Rechercher sur le web" dans la abrre de saisie, celle-ci apparaît surlignée en bleu. L'Assistant ira chercher des sources sur internet pour répondre à votre requête.
+En cliquant sur le bouton "Rechercher sur le web" dans la barre de saisie, celle-ci apparaît surlignée en bleu. L'Assistant ira chercher des sources sur internet pour répondre à votre requête.
 
-### Méthode 2 : Utiliser la recherche intélligente
+### Méthode 2 : Utiliser la recherche intelligente
 
 L'assistant peut **automatiquement** déclencher une recherche web si :
 
