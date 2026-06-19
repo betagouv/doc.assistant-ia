@@ -9,7 +9,7 @@ icon: door-open
 
 ## L'Assistant, c'est quoi ?&#x20;
 
-**L'Assistant** est une plateforme de la DINUM qui vous permet d'échanger avec des modèles d'intelligence artificiel dans un espace **sécurisé** en ligne, de créer des conversations et des projets avec vos documents, et vos instructions adaptées à vos métiers.
+**L'Assistant** est une plateforme de la DINUM qui vous permet d'échanger avec des modèles d'intelligence artificielle dans un espace **sécurisé** en ligne, de créer des conversations et des projets avec vos documents, et vos instructions adaptées à vos métiers.
 
 {% hint style="info" %}
 Vous pouvez utiliser l'Assistant sans coût et sans quotas d'utilisation
