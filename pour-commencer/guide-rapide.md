@@ -6,7 +6,7 @@ icon: clock
 
 ## Se connecter
 
-Afin de faciliter votre connexion à Fichiers, nous utilisons **ProConnect** : ce moyen d'authentification simple et rapide vous permet de vous connecter à tous les outils de LaSuite à l'aide d'un compte unique, sécurisé.
+Afin de faciliter votre connexion à L'Assistant, nous utilisons **ProConnect** : ce moyen d'authentification simple et rapide vous permet de vous connecter à tous les outils de LaSuite à l'aide d'un compte unique, sécurisé.
 
 
 

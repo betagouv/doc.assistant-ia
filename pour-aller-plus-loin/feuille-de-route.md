@@ -63,7 +63,7 @@ Développement de la robustesse du produit en préparation de sa généralisatio
 {% step %}
 **Connexion Docs / Fichiers :**
 
-Permettre à votre Assistant d'aller chercher des documents dans les autres produits de la SUite, et de générer des documents dans votre compte Docs.
+Permettre à votre Assistant d'aller chercher des documents dans les autres produits de la Suite, et de générer des documents dans votre compte Docs.
 {% endstep %}
 
 {% step %}
