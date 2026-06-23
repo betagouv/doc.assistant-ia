@@ -243,18 +243,6 @@ Il est **strictement interdit** d'utiliser l'Assistant IA pour :
 
 ***
 
-## Signalement de contenus illicites
-
-Si vous rencontrez un contenu ou un comportement illicite sur l'Assistant IA, signalez-le immédiatement :
-
-**Email :** signalement@numerique.gouv.fr
-
-**Formulaire :** [https://formulaire.beta.numerique.gouv.fr/r/assistant](https://formulaire.beta.numerique.gouv.fr/r/assistant)
-
-**Téléphone :** 01 71 21 01 70 (demander le service sécurité)
-
-***
-
 ## Accessibilité
 
 ### État de conformité
@@ -290,8 +278,7 @@ Nous nous engageons à rendre le service accessible conformément à l'article 4
 
 ### Certifications
 
-* **SecNumCloud** : Certification de sécurité cloud délivrée par l'ANSSI
-* **ISO 27001** : Norme internationale de management de la sécurité de l'information (en cours)
+* **Hébergement SecNumCloud** : Certification de sécurité cloud délivrée par l'ANSSI
 
 ### Mesures de sécurité
 
