@@ -95,7 +95,7 @@ Ouverture de l'Assistant IA à toutes les administrations
 **Septembre - Octobre 2026**
 
 * Génération de documents simples téléchargeables (formats : txt, docx, md)
-* Intégration des campagnes (exemple : Assistant RH)
+* Intégration des compagnons (exemple : Assistant RH)
 {% endstep %}
 
 {% step %}
