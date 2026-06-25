@@ -24,7 +24,7 @@ Le second élément de l'interface est la barre lattérale de gauche, ou vous tr
 * **Les projets** : vous trouverez ici les projets que vous avez configuré;
 * **Les conversations** : vous y trouverez toutes les conversations démarées à la volée sans être rattachées à un projet.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2026-06-11 à 12.14.35.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2026-06-25 à 14.29.15.png" alt=""><figcaption></figcaption></figure>
 
 
 
