@@ -234,13 +234,13 @@ La fonctionnalité d'export est **en développement**. En attendant, vous pouvez
 
 ## Support et communauté
 
-### Où puis-je discuter avec d'autres utilisateurs ?
+### Où puis-je échanger avec d'autres utilisateurs ?
 
 Rejoignez la communauté sur **Tchap** : [Canal Assistant IA](https://tchap.gouv.fr/#/room/!eAHyPLdVHMxNhKAbaC:agent.dinum.tchap.gouv.fr)
 
-### Qui contacter en cas de problème technique ?
+### Qui contacter en cas de problème ?
 
-1. **Votre référent IA** ministériel (premier niveau de support)
+1. **Votre référent IA** ministériel (pour les problèmes de cadre d'usage ou de formation)
 2. **L'équipe DINUM** via les canaux officiels
 3. [**Signaler un problème**](report-issue.md) pour les bugs techniques
 
