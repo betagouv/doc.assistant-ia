@@ -11,6 +11,10 @@ icon: door-open
 
 **L'Assistant** est une plateforme de la DINUM qui vous permet d'échanger avec des modèles d'intelligence artificielle dans un espace **sécurisé** en ligne, de créer des conversations et des projets avec vos documents, et vos instructions adaptées à vos métiers.
 
+
+
+Le service est disponible à l'adresse suivante : [https://assistant.numerique.gouv.fr](https://assistant.numerique.gouv.fr/)
+
 {% hint style="info" %}
 Vous pouvez utiliser l'Assistant sans coût et sans quotas d'utilisation
 {% endhint %}

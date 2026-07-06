@@ -6,6 +6,8 @@ icon: clock
 
 ## Se connecter
 
+Rendez-vous sur le site: [https://assistant.numerique.gouv.fr](https://assistant.numerique.gouv.fr/)
+
 Afin de faciliter votre connexion à L'Assistant, nous utilisons **ProConnect** : ce moyen d'authentification simple et rapide vous permet de vous connecter à tous les outils de LaSuite à l'aide d'un compte unique, sécurisé.
 
 
