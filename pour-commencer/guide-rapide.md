@@ -56,7 +56,7 @@ Une limite de 10 Mo et de 10 documents par message s'applique.&#x20;
 
 
 
-Enfin, exercez touujours un regard critique sur les productions de l'Assistant, et reposez vous le plus possible sur vos source et vos analyses pour comprendre ses réponses.
+Enfin, exercez toujours un regard critique sur les productions de l'Assistant, et reposez-vous le plus possible sur vos sources et vos propres analyses pour comprendre les réponses de L'Assistant.
 
 
 
@@ -94,9 +94,9 @@ Enfin, pour modifier ou supprimer un projet, cliquez sur le menu composé de 3 p
 
 
 
-Vous pouvez chercher une conversation grâce à l'option "**Rechercher**" dans la barre lattérale. Cette recherche porte sur l'instant sur le titre des conversations.
+Vous pouvez chercher une conversation grâce à l'option "**Rechercher**" dans la barre lattérale. Cette recherche porte pour l'instant sur le titre des conversations.
 
-Lors de la recherhce, les conversations correspondant aux mots clefs saisis s'afficheront. Pour vous aider à mieux vous repérer, le temps écoulé depuis la dernière modification s'affiche, ainsi que le projet dans laquelle se situe la conversation si c'est le cas.&#x20;
+Lors de la recherche, les conversations correspondant aux mots clefs saisis s'afficheront. Pour vous aider à mieux vous repérer, le temps écoulé depuis la dernière modification s'affiche, ainsi que le projet dans laquelle se situe la conversation si c'est le cas.&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2026-06-11 à 12.21.17.png" alt=""><figcaption></figcaption></figure>
 
