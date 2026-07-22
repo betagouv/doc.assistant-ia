@@ -29,14 +29,6 @@ Projets avec bases documentaires
 {% endstep %}
 
 {% step %}
-Homologation DINUM
-{% endstep %}
-{% endstepper %}
-
-### Livraisons récentes
-
-{% stepper %}
-{% step %}
 **Mars 2026 :**&#x20;
 
 * Projets avec système prompt
@@ -51,46 +43,16 @@ Homologation DINUM
 {% endstep %}
 {% endstepper %}
 
-### En développement (Juin - Août 2026)
+### En développement
 
 {% stepper %}
 {% step %}
-**Ouverture de l'Assistant IA**
+**Aout - Septembre 2026 :**&#x20;
 
-Développement de la robustesse du produit en préparation de sa généralisation
+* **Connexion Docs / Fichiers :** Permettre à votre Assistant d'aller chercher des documents dans les autres produits de la Suite, et de générer des documents dans votre compte Docs.
+* **Connecteurs MCP** : Grâce à la technologie MCP, intégrer des outils développés par d'autres services, comme DataGouv ou l'ANSSI (Mes questions cyber) dans l'Assistant
 {% endstep %}
 
-{% step %}
-**Connexion Docs / Fichiers :**
-
-Permettre à votre Assistant d'aller chercher des documents dans les autres produits de la Suite, et de générer des documents dans votre compte Docs.
-{% endstep %}
-
-{% step %}
-**Connecteurs MCP** :
-
-Grâce à la technologie MCP, intégrer des outils développés par d'autres services, comme DataGouv ou l'ANSSI (Mes questions cyber) dans l'Assistant
-{% endstep %}
-{% endstepper %}
-
-### Annonces et ouverture (Juin 2026)
-
-{% stepper %}
-{% step %}
-**VivaTech 2026 :**
-
-Annonce de la généralisation de l'Assistant IA à toutes les administrations de l'État et ses organismes de tutelle
-{% endstep %}
-
-{% step %}
-**Juin 2026 :**\
-Ouverture de l'Assistant IA à toutes les administrations
-{% endstep %}
-{% endstepper %}
-
-### Prévu (Juillet - Décembre 2026)
-
-{% stepper %}
 {% step %}
 **Septembre - Octobre 2026**
 
