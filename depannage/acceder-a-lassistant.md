@@ -1,5 +1,4 @@
 ---
-hidden: true
 icon: right-to-bracket
 ---
 
@@ -13,7 +12,9 @@ Le périmètre de l'accès à l'Assistant est un périmètre au niveau des servi
 
 ### Mon administration est-elle un **service de l'État ou de ses organismes de tutelle** ?
 
-L'unique manière d'être surs que votre administration relève bien de cette définition est de contacter votre **hiérarchie** ou votre **service juridique**. Il existe un nombre trop importants de cas particuliers pour que nous puissions les détailler.
+L'unique manière d'être surs que votre administration relève bien de cette définition est de contacter votre **hiérarchie** ou votre **service juridique**. Il existe un nombre trop importants de cas particuliers pour que nous puissions les détailler.\
+\
+Nous devons nous même effectuer une analyse juridique afin de fournir des réponses détaillés. La seule manière d'accéder à cette analyse est en remplissant le [Datapass d'accès à L'Assistant](https://datapass.api.gouv.fr/formulaires/produits_dinum/demande/nouveau)
 
 #### Exemples d'administrations éligibles
 
@@ -32,5 +33,7 @@ L'unique manière d'être surs que votre administration relève bien de cette d�
 
 L'authentification à l'Assistant ce fait grâce à ProConnect, qui nous fournit des informations sur votre service de rattachement. C'est grâce à cette information que nous faisons le tri.&#x20;
 
-Si vous n'avez pas accès, c'est que votre service de rattachement n'est pas directement éligible : conformément aux sections précédentes, nous ne pouvons pas agir directement sur votre accès, et c'est au niveau de votre (ou de vos) administration(s) de rattachement de prendre attache avec la DINUM pour confirmer la mise à disposition de l'outil.
+Si vous n'avez pas accès, c'est que votre service de rattachement n'est pas directement catégorisé comme éligible : conformément aux sections précédentes, vous pouvez, en accord avec votre hierarchie, entamer le processus de demande d'accès à L'Assistant sur la plateforme DataPass : [https://datapass.api.gouv.fr/formulaires/produits\_dinum/demande/nouveau](https://datapass.api.gouv.fr/formulaires/produits_dinum/demande/nouveau)<br>
+
+Nos équipes juridiques instruiront ensuite l'éligibilité de votre service.&#x20;
 
