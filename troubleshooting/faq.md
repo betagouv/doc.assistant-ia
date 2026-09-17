@@ -142,7 +142,7 @@ Vos conversations sont conservées **tant que votre compte est actif**. Vous pou
 
 ### Quel modèle d'IA est utilisé ?
 
-**Modèle principal actuel :** Mistral Medium 2508
+**Modèle principal actuel :** Mistral Medium 3.5
 
 D'autres modèles peuvent être utilisée lorsque l'Assistant connaît une forte charge, afin que votre expérience soit la plus pérenne possible : si les serveurs du modèle principal sont surchargé, vous basculez sur un autre modèle, qui répond aux mêmes exigences de sécurité et de souveraineté.&#x20;
 
