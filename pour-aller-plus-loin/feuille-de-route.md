@@ -1,9 +1,51 @@
 ---
-description: Feuille de route des fonctionnalités de l'Assistant IA
+description: >-
+  Feuille de route des fonctionnalités de l'Assistant IA. Dernière modification
+  faite le 24 septembre 2026
 icon: calendar
 ---
 
 # Feuille de route
+
+
+
+### Evolutions à venir
+
+{% stepper %}
+{% step %}
+### **Septembre 2026**
+
+* Export des réponses de l'Assistant vers [Docs, la solution d'édition de texte collaborative de la Suite Numérique](https://docs.numerique.gouv.fr/). **Déjà livrée**
+* Export de diapositives par L'Assistant
+* Début de l'expérimentation d'intégration du MCP DataGouv, dans le cadre d'un programme beta ouvert à partir du 30 septembre.
+{% endstep %}
+
+{% step %}
+### Octobre 2026
+
+* Import de documents directement depuis [Fichiers](https://fichiers.numerique.gouv.fr/)
+* Import de documents directement depuis [Docs](https://docs.numerique.gouv.fr/)
+* Amélioration de la recherche internet : _possibilité de requêter directement une page web grâce à son URL_
+{% endstep %}
+
+{% step %}
+### Novembre 2026
+
+* Partage de projets entre agents : _les agents pourront partager les projets avec leurs collègues. Ce partage ne portera que sur les prompts et documents, les conversations liées au projet resteront strictement privées._
+* Analyse de données tabulaire : _L'Assistant disposera d'un outil permettant d'effectuer des calculs formels sur des données de type csv ou pptx._
+{% endstep %}
+
+{% step %}
+### Décembre 2026
+
+* Citations ligne par ligne: _pour chaque phrase de L'Assistant, identifier les paragraphes de sources ayant servi a générer la phrase_
+* Harnais de L'Assistant: _Amélioration du protocole suivi par L'Assistant pour correctement traiter les requêtes en s'appuyant sur tous les outils à sa disposition et suivre rigoureusement les étapes imposées par l'utilisateur._
+{% endstep %}
+{% endstepper %}
+
+
+
+
 
 ### Fonctionnalités déjà livrées
 
@@ -29,41 +71,16 @@ Projets avec bases documentaires
 {% endstep %}
 
 {% step %}
-**Mars 2026 :**&#x20;
-
-* Projets avec système prompt
-* Recherche juridique améliorée
+Projets avec système prompt
 {% endstep %}
 
 {% step %}
-**Avril 2026 :**
+Homologation DINUM pour les données sensibles au sens de la loi SREN
+{% endstep %}
 
-* Homologation DINUM pour les données sensibles au sens de la loi SREN
-* Bases documentaires intégrées dans les projets
+{% step %}
+Bases documentaires intégrées dans les projets
 {% endstep %}
 {% endstepper %}
 
-### En développement
-
-{% stepper %}
-{% step %}
-**Aout - Septembre 2026 :**&#x20;
-
-* **Connexion Docs / Fichiers :** Permettre à votre Assistant d'aller chercher des documents dans les autres produits de la Suite, et de générer des documents dans votre compte Docs.
-* **Connecteurs MCP** : Grâce à la technologie MCP, intégrer des outils développés par d'autres services, comme DataGouv ou l'ANSSI (Mes questions cyber) dans l'Assistant
-{% endstep %}
-
-{% step %}
-**Septembre - Octobre 2026**
-
-* Génération de documents simples téléchargeables (formats : txt, docx, md)
-* Intégration des compagnons (exemple : Assistant RH)
-{% endstep %}
-
-{% step %}
-**Novembre - Décembre 2026**
-
-* Analyse statistique rigoureuse et capacité d'exécution de code
-* Génération de documents avancés (formats : pptx, xlsx, pdf)
-{% endstep %}
-{% endstepper %}
+###
