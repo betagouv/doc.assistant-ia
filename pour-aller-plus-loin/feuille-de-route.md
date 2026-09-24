@@ -15,9 +15,9 @@ icon: calendar
 {% step %}
 ### **Septembre 2026**
 
-* Export des réponses de l'Assistant vers [Docs, la solution d'édition de texte collaborative de la Suite Numérique](https://docs.numerique.gouv.fr/). **Déjà livrée**
-* Export de diapositives par L'Assistant
-* Début de l'expérimentation d'intégration du MCP DataGouv, dans le cadre d'un programme beta ouvert à partir du 30 septembre.
+* Génération de Docs par L'Assistant (export vers [Docs, la solution d'édition de texte collaborative de la Suite Numérique](https://docs.numerique.gouv.fr/))
+* Génération de _slides_ par L'Assistant
+* Début de l'expérimentation d'intégration du MCP DataGouv, dans le cadre d'un programme beta ouvert à partir du 30 septembre
 {% endstep %}
 
 {% step %}
@@ -25,21 +25,21 @@ icon: calendar
 
 * Import de documents directement depuis [Fichiers](https://fichiers.numerique.gouv.fr/)
 * Import de documents directement depuis [Docs](https://docs.numerique.gouv.fr/)
-* Amélioration de la recherche internet : _possibilité de requêter directement une page web grâce à son URL_
+* Amélioration de la recherche internet
 {% endstep %}
 
 {% step %}
 ### Novembre 2026
 
-* Partage de projets entre agents : _les agents pourront partager les projets avec leurs collègues. Ce partage ne portera que sur les prompts et documents, les conversations liées au projet resteront strictement privées._
+* Partage de Projets entre agents : _les agents pourront partager les projets avec leurs collègues. Ce partage ne portera que sur les prompts et documents, les conversations liées au projet resteront strictement privées._
 * Analyse de données tabulaire : _L'Assistant disposera d'un outil permettant d'effectuer des calculs formels sur des données de type csv ou pptx._
 {% endstep %}
 
 {% step %}
 ### Décembre 2026
 
-* Citations ligne par ligne: _pour chaque phrase de L'Assistant, identifier les paragraphes de sources ayant servi a générer la phrase_
-* Harnais de L'Assistant: _Amélioration du protocole suivi par L'Assistant pour correctement traiter les requêtes en s'appuyant sur tous les outils à sa disposition et suivre rigoureusement les étapes imposées par l'utilisateur._
+* Citations ligne par ligne (mode liseuse)
+* Refonte du harnais de L'Assistant: _Amélioration du protocole suivi par L'Assistant pour correctement traiter les requêtes en s'appuyant sur tous les outils à sa disposition et suivre rigoureusement les étapes imposées par l'utilisateur._
 {% endstep %}
 {% endstepper %}
 
