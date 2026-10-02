@@ -11,6 +11,7 @@
 * [Gestion des documents](guides/documents.md)
 * [Recherche web](guides-pratiques/recherche-web.md)
 * [Résumé automatique](guides-pratiques/resume.md)
+* [Fiches reflex](guides-pratiques/fiches-reflex.md)
 
 ## Dépannage
 
