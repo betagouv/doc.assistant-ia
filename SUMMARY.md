@@ -11,7 +11,12 @@
 * [Gestion des documents](guides/documents.md)
 * [Recherche web](guides-pratiques/recherche-web.md)
 * [Résumé automatique](guides-pratiques/resume.md)
-* [Fiches réflexes](guides-pratiques/fiches-reflexes.md)
+* [Fiches réflexes](guides-pratiques/fiches-reflexes/README.md)
+  * [Rédiger son premier prompt](guides-pratiques/fiches-reflexes/rediger-son-premier-prompt.md)
+  * [Extraire des informations d'un document](guides-pratiques/fiches-reflexes/extraire-des-informations-dun-document.md)
+  * [Organiser son travail avec la fonction Projet dans l’Assistant](guides-pratiques/fiches-reflexes/organiser-son-travail-avec-la-fonction-projet-dans-lassistant.md)
+  * [Exporter vos réponses en clic de L’Assistant vers Docs](guides-pratiques/fiches-reflexes/exporter-vos-reponses-en-clic-de-lassistant-vers-docs.md)
+  * [Activer la rercherche internet dans L'Assistant](guides-pratiques/fiches-reflexes/activer-la-rercherche-internet-dans-lassistant.md)
 
 ## Dépannage
 
