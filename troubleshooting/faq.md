@@ -70,7 +70,7 @@ Contexte : [coller le texte ici]
 
 **Formats supportés :**
 
-* **Documents :** PDF, Markdown (.md), Word (.docx), PowerPoint (.pptx), Excel (.xlsx)
+* **Documents :** PDF, Markdown (.md), Word (.docx), PowerPoint (.pptx), Excel (.xlsx), la suite OpenDocument  (.ods, .odt, .odp, .ott).
 * **Images :** JPG, PNG, WEBP
 * **Autres :** TXT, CSV (selon configuration)
 

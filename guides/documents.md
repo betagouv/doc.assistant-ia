@@ -99,7 +99,7 @@ Pour que l'assistant **trouve l'information que vous cherchez**, celle-ci doit �
 
 ### Dans tous les cas
 
-* **Privilégiez les formats texte** (PDF avec texte, DOCX, TXT) aux images ou scans
+* **Privilégiez les formats texte** (PDF avec texte, DOCX, TXT, la suite ODF) aux images ou scans
 * **Testez avec une question simple** pour confirmer que le document est bien indexé
 
 ***
