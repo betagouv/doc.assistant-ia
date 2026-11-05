@@ -96,19 +96,22 @@ Vos conversations sont conservées **tant que votre compte est actif**. Vous pou
 **Oui, plusieurs niveaux de protection :**
 
 * **Hébergement souverain** : Infrastructure SecNumCloud en France
-* **Isolement** : Vos données sont strictement séparées de celles des autres utilisateurs
-* **Accès restreint** : Seuls vous et les administrateurs autorisés pouvez accéder à vos conversations
+* **Isolation** : Vos données sont strictement séparées de celles des autres utilisateurs
+* **Accès restreint** : Seuls vous et les administrateurs habilités peuvent accéder à vos conversations
 
 ### Qui peut accéder à mes conversations ?
 
 **Par défaut :**
 
 * **Vous seul** avez accès à vos conversations
-* Les **administrateurs techniques** de la DINUM peuvent accéder aux données&#x20;
+* Certains **administrateurs techniques** de la DINUM peuvent accéder aux données. Ces accès sont journalisés
 
-**En cas d'analyse activée :**
+**Si vous avez activé l'analyse des conversations :**
 
 * L'équipe produit peut consulter vos échanges **à des fins d'amélioration du service uniquement**
+
+**Dans tous les cas :**
+
 * Les données ne sont **jamais** utilisées pour entraîner des modèles
 * Les données ne sont **jamais** partagées avec des tiers
 
@@ -122,19 +125,25 @@ Vos conversations sont conservées **tant que votre compte est actif**. Vous pou
 
 ### Puis-je utiliser l'Assistant avec des données sensibles ?
 
-**Oui, l'Assistant est homologué pour le traitement de données sensibles au sens de la loi SREN. Contactez votre hierarchie pour connaître le cadre d'usage spécifique à votre administration.**
+**Oui, l'Assistant est homologué pour le traitement de données sensibles au sens de la loi SREN.**
+
+Chaque ministère dispose toutefois souvent de sa propre classification de données : il appartient donc, si besoin, à l'autorité qualifiée d'une administration utilisatrice de réévaluer le niveau de sécurité du produit, sur la base du dossier d’homologation mis à disposition par la DINUM.
 
 **À NE PAS faire :**
 
-* ❌ Données médicales
-* ❌ Données classifiées (Diffusion restreinte, Secret, Très Secret)
-* ❌ Données sensibles au sens  de l'ANSSI
+* ❌ Utiliser L'Assistant pour traîter des données de santé recueillies à des fins de prévention, soins, suivi social ou médico-social
+* ❌ Utiliser L'Assistant pour traîter des données portant le marquage "Diffusion Restreinte"
+* ❌ Utiliser L'Assistant pour traîter des données classifiées (ex: Secret)
 
 **À faire :**
 
 * ✅ Anonymisez les données lorsque vous le pouvez
 * ✅ Consultez votre référent IA ou DPO en cas de doute
 * ✅ Préférez les données déjà publiques
+
+{% hint style="info" %}
+La DINUM a publié, en lien avec la DGE, la DAE et la DAJ du MEFSIN, un [**vade-mecum sur la sensibilité des données au sens de l'article 31 de la loi SREN**](https://s3.eu-west-par.io.cloud.ovh.net/numerique-gouv-website/numerique-gouv-website/documents/20260204_Vademecum_donnees_sensibles_.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256\&X-Amz-Credential=83d53d2d1ca64211b6b9581adffa67ce%2F20260513%2Feu-west-par%2Fs3%2Faws4_request\&X-Amz-Date=20260513T145235Z\&X-Amz-Expires=3600\&X-Amz-SignedHeaders=host\&X-Amz-Signature=1e1236e93b410eab99c45b20bd81f3606dccc91c8de9b943cc7c5aa5c286b5cd). Ce document précise les conditions dans lesquelles le recours à un hébergement SecNumCloud s'impose, et fournit des exemples concrets pour aider les administrations à qualifier leurs données.
+{% endhint %}
 
 ***
 
