@@ -7,7 +7,7 @@ icon: building-columns
 
 # Mentions légales
 
-Les présentes mentions légales s'appliquent à l'utilisation de l'**Assistant IA**, service développé et opéré par la Direction interministérielle du numérique (DINUM).
+Les présentes mentions légales s'appliquent à l'utilisation de **L'Assistant**, service développé et opéré par la Direction interministérielle du numérique (DINUM).
 
 ## Éditeur
 
@@ -27,9 +27,9 @@ France
 
 **SIREN :** 120 001 011
 
-**Représentant légal :** Madame Stéphanie Schaer, Directrice interministérielle du numérique
+**Représentant légal :** Monsieur Walter Arnaud, Directeur interministérielle du numérique.
 
-**Directrice de la publication :** Madame Stéphanie Schaer
+**Directrice de la publication :** Monsieur Walter Arnaud.
 
 ***
 
@@ -106,7 +106,7 @@ Respect des exigences pour le traitement des informations classifiées :
 
 ## Service
 
-**Nom commercial :** Assistant IA
+**Nom commercial :** L'Assistant
 
 **URL :** [https://assistant.numerique.gouv.fr](https://assistant.numerique.gouv.fr)
 
@@ -126,7 +126,7 @@ La DINUM se réserve le droit de modifier à tout moment les présentes mentions
 
 ### Accès au service
 
-L'accès à l'Assistant IA est **gratuit** et réservé aux :
+L'accès à L'Assistant est **gratuit** et réservé aux :
 
 * Agents des administrations de l'État
 * Agents des organismes sous tutelle de l'État
@@ -157,7 +157,7 @@ Sauf mention contraire, les contenus produits par la DINUM (documentation, guide
 
 #### Logos et marques
 
-Les logos et marques de l'État, de la DINUM, de LaSuite et de l'Assistant IA sont **protégés** et ne peuvent être utilisés sans autorisation préalable.
+Les logos et marques de l'État, de la DINUM, de LaSuite et de L'Assistant sont **protégés** et ne peuvent être utilisés sans autorisation préalable.
 
 #### Modèles d'IA
 
@@ -247,7 +247,7 @@ Il est **strictement interdit** d'utiliser l'Assistant IA pour :
 
 ### État de conformité
 
-L'Assistant IA (assistant.numerique.gouv.fr) **n'est pas encore pleinement conforme** au [RGAA 4.1](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/).
+L'Assistant (assistant.numerique.gouv.fr) **n'est pas encore pleinement conforme** au [RGAA 4.1](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/).
 
 **Statut :** Partiellement accessible
 
