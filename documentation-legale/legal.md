@@ -27,7 +27,7 @@ France
 
 **SIREN :** 120 001 011
 
-**Représentant légal :** Monsieur Walter Arnaud, Directeur interministérielle du numérique.
+**Représentant légal :** Monsieur Walter Arnaud, Directeur interministériel du numérique.
 
 **Directrice de la publication :** Monsieur Walter Arnaud.
 
