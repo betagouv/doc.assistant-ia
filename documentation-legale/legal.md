@@ -47,10 +47,9 @@ France
 
 **Site web :** [https://www.outscale.com/](https://www.outscale.com/)
 
-**Certification :** SecNumCloud (délivrée par l'ANSSI)
-
 **Infrastructure :**
 
+* Offre qualifiée SecNumCoud 3.2 (délivrée par l'ANSSI)
 * Filiale de Dassault Systèmes
 * Niveau de sécurité le plus élevé pour les services cloud en France
 * Conformité aux exigences de souveraineté française et européenne
@@ -92,15 +91,13 @@ L'Assistant IA respecte les exigences de la [loi SREN](https://www.numerique.gou
 
 
 
-Respect des exigences pour le traitement des informations classifiées :
+L'Assistant n'est pas homologué pour :
 
-* **Diffusion Restreinte** : **Non autorisé** dans l'Assistant IA (sauf configuration spécifique)
-* **Secret** : **Interdit**
-* **Très Secret** : **Interdit**
+❌ Le traitement de données portant le marquage "Diffusion Restreinte"
 
-{% hint style="warning" %}
-**Important :** L'Assistant IA n'est **pas homologué** pour le traitement de données classifiées. Ne soumettez **jamais** de données sensibles au sens de l'ANSSI.
-{% endhint %}
+❌ Le traitement de données classifiées
+
+❌ Le traitement de données de santé recueillies à des fins de prévention, soins, suivi social ou médico-social
 
 ***
 
@@ -278,7 +275,7 @@ Nous nous engageons à rendre le service accessible conformément à l'article 4
 
 ### Certifications
 
-* **Hébergement SecNumCloud** : Certification de sécurité cloud délivrée par l'ANSSI
+* **Hébergement SecNumCloud 3.2** : Qualification de sécurité cloud délivrée par l'ANSSI
 
 ### Mesures de sécurité
 

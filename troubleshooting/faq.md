@@ -91,6 +91,10 @@ Vos conversations sont conservées **tant que votre compte est actif**. Vous pou
 
 ## Sécurité et confidentialité
 
+### Où sont hébergées mes données ?
+
+Vos données sont hébergées par **3DS Outscale (filiale de Dassault Systèmes)**, en France, via une offre qualifiée SecNumCloud.
+
 ### Mes données sont-elles sécurisées ?
 
 **Oui, plusieurs niveaux de protection :**
